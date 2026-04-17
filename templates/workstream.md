@@ -1,5 +1,5 @@
 ---
-summary: One sentence describing current state of this workstream.
+summary: One sentence describing current state of this channel or workstream.
 status: Active
 last_updated: DD.MM.YYYY
 ---
@@ -9,10 +9,21 @@ last_updated: DD.MM.YYYY
 ## Current Status
 
 What is the current state? Include key metrics and recent trends.
+Example: "Meta CPA at AED 42, down 8% WoW. Budget pacing on track at 94% of monthly cap."
 
 ## Key Initiatives
 
-What is actively being worked on? List campaigns, projects, or focus areas.
+What is actively being worked on?
+- Campaign or project name — brief status
+- Campaign or project name — brief status
+
+## Performance Metrics
+
+| Metric | Current | Target | Trend |
+|---|---|---|---|
+| CPA | AED X | AED Y | ↑/↓ |
+| ROAS | X | Y | ↑/↓ |
+| Spend | AED X | AED Y | On track / Over / Under |
 
 ## Blockers
 

@@ -4,14 +4,20 @@
 <!-- After running the bootstrap, this will contain a full catalog of every article. -->
 
 Last updated: DD.MM.YYYY
-Source: [Your source description]
+Source: Slack channel D02E7Q76T2T — Justlife Digital Marketing
 
 ## State
 * [[state.md]] - Compressed current state snapshot. Load this at Step 0 instead of individual files. Regenerated nightly.
 
 ## Workstreams
 
-* [[workstreams/example]] - Replace with your workstreams after bootstrap | Active
+* [[workstreams/paid-media]] - Google Ads & Meta Ads performance, spend, CPA, ROAS | Active
+* [[workstreams/seo-organic]] - Organic traffic, keyword rankings, content pipeline | Active
+* [[workstreams/social-media]] - Instagram, TikTok, LinkedIn performance and content calendar | Active
+* [[workstreams/crm-email]] - Email campaigns, CRM automation, retention metrics | Active
+* [[workstreams/app-marketing]] - App install campaigns, ASO, in-app funnels | Active
+* [[workstreams/content-creative]] - Creative production pipeline, ad performance, approvals | Active
+* [[workstreams/analytics-reporting]] - Dashboards, attribution, tracking quality | Active
 
 ## People
 
@@ -19,13 +25,13 @@ Source: [Your source description]
 
 ## Experiments
 
-* [[experiments/example]] - Replace with your experiments after bootstrap | Active
+* [[experiments/example]] - Replace with your active experiments after bootstrap | Active
 
 ## Decisions
 
-* [[decisions/log]] - Chronological log of all decisions
+* [[decisions/log]] - Chronological log of all marketing decisions
 
 ## Metrics
 
-* [[metrics/definitions]] - Metric definitions and benchmarks
-* [[metrics/weekly-benchmarks]] - Current targets and thresholds
+* [[metrics/definitions]] - KPI definitions and benchmarks (CPA, ROAS, CAC, CTR, installs, open rate)
+* [[metrics/weekly-benchmarks]] - Current targets and thresholds by channel

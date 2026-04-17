@@ -8,13 +8,13 @@ last_updated: DD.MM.YYYY
 
 ## Role
 
-Job title. Reports to whom. Primary function on the team.
+Job title. Reports to whom. Primary function within the Justlife marketing team.
 
 ## Ownership Areas
 
-- Area 1 — brief description
-- Area 2 — brief description
-- Area 3 — brief description
+- Channel or area — brief description (e.g. Paid Media — Google & Meta campaign management)
+- Channel or area — brief description
+- Channel or area — brief description
 
 ## Open Items
 
@@ -25,6 +25,7 @@ Job title. Reports to whom. Primary function on the team.
 ## Delivery Patterns
 
 Note any patterns observed: items carried over multiple days, response times, bandwidth flags, strengths.
+Example: "Consistently delivers creative briefs on time. Reporting tasks tend to slip 1-2 days."
 
 ## Backlinks
 
