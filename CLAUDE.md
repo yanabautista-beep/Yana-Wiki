@@ -6,9 +6,8 @@ This wiki is built for agents, not humans. It compiles operational knowledge fro
 
 ## Owner
 
-<!-- CUSTOMIZE: Replace with your information -->
-Your Name, Your Role, Your Company. Location.
-Primary source channel: YOUR_CHANNEL_ID
+Yana, Digital Marketing Executive, Justlife. UAE.
+Primary source channel: D02E7Q76T2T
 
 ## Article format
 
