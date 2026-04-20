@@ -1,6 +1,6 @@
 # Wiki Index
 
-Last updated: 17.04.2026
+Last updated: 20.04.2026
 Source: Slack DM channel D02E7Q76T2T — Yana Bautista, Digital Marketing Executive, Justlife UAE
 
 ## State
@@ -20,6 +20,7 @@ Source: Slack DM channel D02E7Q76T2T — Yana Bautista, Digital Marketing Execut
 
 * [[people/sabhyata]] - CRM owner for Healthcare — CleverTap and WhatsApp | Active
 * [[people/ishika]] - Affiliate invoicing — Arabyads | Active
+* [[people/ameya]] - Senior stakeholder — affiliate decisions, social boosts, GitHub setup | Active
 * [[people/bilge]] - Senior stakeholder — KSA strategy, budget approvals | Active
 
 ## Experiments

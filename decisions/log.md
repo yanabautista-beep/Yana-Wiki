@@ -1,5 +1,20 @@
 # Decisions Log
 
+## 20.04.2026
+
+**Mental health Google Search — stop optimizing, wait for Meta creatives**
+Google Search not performing and has limited optimization room. Decision: no further optimization. Will launch Meta campaign when creatives arrive (expected end of week / early next week). Source: #healthtasks, DM with Nitish/Bilge.
+
+## 20.04.2026
+
+**Arabyads March 2026 invoice — escalated to Ameya**
+Invoice found to contain retained user bookings missed from Justlife's side. Two options escalated to Ameya: (a) revise invoice with Arabyads to remove retained bookings, (b) pay at $5 payout for retained users. Decision pending. Source: Group DM Yana/Ameya/Ishika.
+
+## 20.04.2026
+
+**Boosted Instagram reel on Meta social-boost campaign**
+Ameya requested boosting a specific Instagram reel for today only on Meta social-boost campaign. Yana confirmed done. Source: #yana-daily.
+
 ## 13.04.2026
 
 **Launch Glutathione IV Therapy before Peptide vertical**
