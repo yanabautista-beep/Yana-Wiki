@@ -1,7 +1,7 @@
 ---
-summary: Healthcare at Home vertical — Lab Tests, IV Therapy, Doctor Consultation, Pet Healthcare, Glutathione, Cancer Screening.
+summary: Healthcare at Home vertical — Lab Tests, IV Therapy, Doctor Consultation, Pet Healthcare, Glutathione, Cancer Screening, Peptides.
 status: Active
-last_updated: 20.04.2026
+last_updated: 23.04.2026
 ---
 
 # Healthcare Vertical
@@ -38,7 +38,7 @@ Healthcare is the primary growth vertical across paid and CRM. Multiple sub-vert
 - **Mental Health Campaign** — Google Search not performing; no further optimization. Meta campaign pending creatives (end of week / early next week).
 - **Pet Grooming Revamp** — funnel and creatives updated by Rabin, live 17.04.2026
 - **IV Therapy funnel update** — Hair Strengthening Drip inactivated; Skin, Hair & Nails IV Drip now live as new attribute (20.04.2026, Rabin)
-- **Peptide launch — Arabic translations** — Nitish flagged 24.04.2026 deadline; no Yana response yet (20.04.2026)
+- **Peptide launch** — **LIVE 23.04.2026** (one day before 24.04 deadline). Rabin M confirmed in #healthtasks. Nitish cross-checking pricing and key nutrients per brief.
 - **HC Concept Test results** — V1 wins (5-day results): V1 Meta CPI $130.70 / Adjust $94.40 vs V2 $309.68 / $212.91; Version C best delivery (73%). Bilge recommends call to finalise structure with Ameya, then share with brand team (20.04.2026)
 
 ## Pet Grooming Sunday Metrics (20.04.2026)
@@ -67,8 +67,9 @@ Sabhyata owns CRM tasks for Healthcare. Pending tasks include:
 - Brand team approval pending on Glutathione ad copies
 - Mental health Meta creatives expected end of week (Apr 2026)
 - Pet Healthcare creative brief submitted to BD; prioritization needed
-- Peptide Arabic translations — confirmation pending; 24.04.2026 deadline (4 days)
 - HC Concept Test structure — call with Bilge + Ameya needed to finalise before HC Concept Ads go live
+- Urine Culture & Sensitivity Test naming — 0 search volume vs clinical need debate; "Urine analysis & culture test" proposed by Sandeep (23.04.2026)
+- April conversion drop — PG and PH conversions declining in April despite session spikes; Nitish correlating with launch of search campaigns; Yana + Bilge to investigate (23.04.2026)
 
 ## Open Items
 
@@ -87,10 +88,12 @@ Sabhyata owns CRM tasks for Healthcare. Pending tasks include:
 | Lab Test WA Sunday — confirm status | Sabhyata | Unknown | 0 |
 | Free Mental Health bookings report | Sandeep / Nitish | Requested | 0 |
 | Meta creative placement fix (pet HC pop up) | Yana | Open | 0 |
-| Peptide Arabic Translations — confirm on track for 24.04 | Yana / Sandeep | No response yet | 0 |
-| HC Concept Test — schedule call with Bilge + Ameya | Yana | Open | 0 |
-| Flyers — reply to Rabiah with count + distribution plan | Yana | Pending | 0 |
-| HC Concept Ads — review Asana tags from Pallavi | Yana | Pending | 0 |
+| HC Concept Test — schedule call with Bilge + Ameya | Yana | Open | 3 |
+| Flyers — distribution plan + slot tracking | Yana | In print; plan unclear | 3 |
+| HC Concept Ads — review Asana tags from Pallavi | Yana | Pending | 3 |
+| April conversion drop (PG/PH) investigation | Yana / Bilge | NEW | 0 |
+| Urine Culture & Sensitivity Test naming decision | Yana / Sandeep | Debate ongoing | 0 |
+| AED 10 Zonal HC booking numbers — share with Rabiah | Yana | NEW | 0 |
 
 ## Backlinks
 

@@ -1,5 +1,5 @@
 ---
-last_updated: 21.04.2026
+last_updated: 23.04.2026
 generated_by: evening-briefing
 ---
 # Wiki State Snapshot — Justlife Digital Marketing
@@ -11,16 +11,18 @@ generated_by: evening-briefing
 | Item | Owner | Deadline |
 |---|---|---|
 | Glutathione Google Search — take live once brand approves ad copies | Yana | Awaiting brand |
-| Arabyads March 2026 invoice decision — retained users in invoice | Ameya | Urgent — pending reply |
+| Arabyads March 2026 invoice decision — retained users in invoice | Ameya | Urgent — 3d pending |
+| April conversion drop (PG/PH) — sessions up, conversions down since April search campaigns | Yana / Bilge | Investigate now |
 
 ## URGENT
 | Item | Owner |
 |---|---|
-| Lab Test WA Sunday send — confirm went out | Sabhyata |
+| Lab Test WA Sunday send — confirm went out (3d unconfirmed) | Sabhyata |
 | Pet Healthcare Push Notification | Yana |
 | Pet Healthcare CRM Ecom Tile | Sabhyata |
 | KSA Conversion Lift Results | Yana |
 | Free Mental Health bookings report | Sandeep / Nitish |
+| Peptide pricing/nutrients — verify per brief post-launch | Nitish |
 
 ## HIGH
 | Item | Owner |
@@ -32,64 +34,76 @@ generated_by: evening-briefing
 | New Arabyads Voucher Codes | Yana |
 | Finalize Initiative Tracker | Yana |
 | Meta creative placement fix — Pet HC Thank You Pop Up | Yana |
-| Peptide Arabic Translations — confirm on track for 24.04 deadline | Yana / Sandeep |
 | HC Concept Test — schedule call with Bilge + Ameya to finalise structure | Yana |
+| Urine Culture & Sensitivity Test naming decision | Yana / Sandeep |
+| AED 10 Zonal HC booking numbers — share with Rabiah | Yana |
 
 ## Workstream Status
 | Workstream | Status | Last Signal | Watch |
 |---|---|---|---|
-| Paid Media | Active — HC Concept Test V1 wins (5-day results); social-boost reel boosted; Glutathione pending brand | 20.04.2026 | Watch: Glutathione delay; schedule HC concept call with Bilge + Ameya |
-| Healthcare Vertical | Active — Pet HC pop-up RESOLVED; IV Therapy funnel updated (Skin, Hair & Nails live); mental health Search underperforming; Lab Test WA Sunday unconfirmed | 20.04.2026 | Watch: Lab Test WA confirmation; Peptide 24.04 deadline |
-| KSA Expansion | Active — PMax live in Riyadh/Jeddah/Dammam; TikTok/Snapchat creatives pending | 17.04.2026 | Watch: creatives (171d stale) |
-| CRM & Email | Active — Sabhyata managing HC CRM tasks; Lab Test WA Sunday status unknown | 20.04.2026 | Watch: Lab Test WA |
-| Affiliate | Active — March 2026 invoice contains retained users; decision pending from Ameya | 20.04.2026 | Watch: invoice dispute |
+| Paid Media | Active — HC Concept Test V1 wins; Lab Test AB test check pending; Meta concepts structure to be rebuilt | 23.04.2026 | Watch: April conversion drop investigation; Lab Test/IV Therapy AB test results |
+| Healthcare Vertical | Active — Peptides now LIVE under IV Therapy (23.04); urine test naming debate; April conversion drop flagged | 23.04.2026 | Watch: Peptide nutrients verification; April PG/PH conversion drop |
+| KSA Expansion | Active — PMax live in Riyadh/Jeddah/Dammam; TikTok/Snapchat creatives pending | 17.04.2026 | Watch: creatives (174d stale); Conversion Lift results |
+| CRM & Email | Active — Sabhyata managing HC CRM tasks; Lab Test WA Sunday status still unconfirmed (3d) | 23.04.2026 | Watch: Lab Test WA |
+| Affiliate | Active — March 2026 invoice retained-user dispute; Ameya decision pending 3d | 23.04.2026 | Watch: invoice decision urgent |
 | App Marketing | Active — UAE live; KSA Dammam pending creatives | 17.04.2026 | OK |
-| Analytics & Reporting | Active — KSA analysis and Conversion Lift results pending | 17.04.2026 | OK |
+| Analytics & Reporting | Active — KSA analysis and Conversion Lift results pending; April conversion drop new investigation | 23.04.2026 | Watch: April drop investigation |
 
 ## Open Items
 | Item | Owner | Status | Days Open |
 |---|---|---|---|
-| Finalize Initiative Tracker | Yana | Open | 17 |
-| Lab Test Survey Like Creative Campaign | Yana | Open | 6 |
-| KSA Conversion Lift Results | Yana | Open | 4 |
-| Complete Analysis — KSA campaigns | Yana | Open | 6 |
-| Check Meta — Diabetic Profile HbA1C at AED 49 | Yana | Open | 4 |
-| Pet Healthcare Push Notification | Yana | Open | 4 |
-| Pet Healthcare CRM Ecom Tile | Sabhyata | Open | 4 |
-| Funnel Drop Off — Pet Healthcare | Yana / Sabhyata | Open | 6 |
-| HC Concept Ads — add creatives and take live | Yana | Open | 6 |
-| Healthcare concept ideas brief | Yana | Open | 6 |
-| New Arabyads Voucher Codes | Yana | Open | 17 |
-| Arabyads S2S attribution discrepancy | Yana / Tech | Open | 277 |
-| KSA TikTok + Snapchat App Install creatives | Yana | Pending creatives | 171 |
-| Create PMax alerts (KSA) | Yana | Open | 171 |
-| Arabyads March invoice decision (retained users) | Ameya | Pending decision | 0 |
-| Free Mental Health bookings report | Sandeep / Nitish | Requested | 0 |
-| Meta creative placement fix (pet HC pop up) | Yana | Open | 0 |
-| Lab Test WA Sunday send — confirm status | Sabhyata | Unknown | 0 |
-| Peptide Arabic Translations — confirm on track, 24.04 deadline | Yana / Sandeep | No response yet | 0 |
-| HC Concept Test — schedule call (Bilge + Ameya) to finalise V1 structure | Yana | Open | 0 |
-| Flyers — confirm count + distribution plan for pet healthcare | Yana | Pending reply to Rabiah | 0 |
-| Pallavi HC Ads — review Asana tags | Yana | Pending | 0 |
+| Finalize Initiative Tracker | Yana | Open | 20 |
+| Lab Test Survey Like Creative Campaign | Yana | Open | 9 |
+| KSA Conversion Lift Results | Yana | Open | 7 |
+| Complete Analysis — KSA campaigns | Yana | Open | 9 |
+| Check Meta — Diabetic Profile HbA1C at AED 49 | Yana | Open | 7 |
+| Pet Healthcare Push Notification | Yana | Open | 7 |
+| Pet Healthcare CRM Ecom Tile | Sabhyata | Open | 7 |
+| Funnel Drop Off — Pet Healthcare | Yana / Sabhyata | Open | 9 |
+| HC Concept Ads — add creatives and take live | Yana | Open | 9 |
+| Healthcare concept ideas brief | Yana | Open | 9 |
+| New Arabyads Voucher Codes | Yana | Open | 20 |
+| Arabyads S2S attribution discrepancy | Yana / Tech | Open | 280 |
+| KSA TikTok + Snapchat App Install creatives | Yana | Pending creatives | 174 |
+| Create PMax alerts (KSA) | Yana | Open | 174 |
+| Arabyads March invoice decision (retained users) | Ameya | Pending decision | 3 |
+| Free Mental Health bookings report | Sandeep / Nitish | Requested | 3 |
+| Meta creative placement fix (pet HC pop up) | Yana | Open | 3 |
+| Lab Test WA Sunday — confirm status | Sabhyata | Unknown | 3 |
+| HC Concept Test — schedule call (Bilge + Ameya) | Yana | Open | 3 |
+| Flyers — distribution plan + slot tracking | Yana | In print, plan unclear | 3 |
+| Pallavi HC Ads — review Asana tags | Yana | Pending | 3 |
+| April conversion drop investigation (PG/PH) | Yana / Bilge | NEW — Nitish flagged | 0 |
+| Urine Culture & Sensitivity Test naming | Yana / Sandeep | NEW — debate ongoing | 0 |
+| AED 10 Zonal HC booking numbers | Yana | NEW — Rabiah requested | 0 |
+| Glutathione Google Search — take live | Yana | Pending brand approval | ongoing |
+
+## Recently Resolved
+| Item | Resolution | Date |
+|---|---|---|
+| Peptide Arabic Translations (24.04 deadline) | Peptides went live 23.04 — one day early | 23.04.2026 |
+| Pet Healthcare Thank You Pop Up | Sabhyata fixed logic; Nitish confirmed | 20.04.2026 |
 
 ## Active Experiments
 | Experiment | Channel | Status | Signal |
 |---|---|---|---|
 | Funnel vs LP Captions AI (Jeddah) | Meta | Active | Launched 29.05.2025 — results pending |
+| Lab Test AED 50 Off vs AED 60 Off | Meta | Pausing — AED 50 Off wins | 23.04.2026 — Yana to execute pause |
 
 ## People Watch List
 | Person | Open Item | Urgency |
 |---|---|---|
-| Ameya | Arabyads March invoice decision — retained users | Critical |
-| Sabhyata | Lab Test WA Sunday confirmation | Urgent |
+| Ameya | Arabyads March invoice decision — retained users (3d pending) | Critical |
+| Sabhyata | Lab Test WA Sunday confirmation (3d unknown) | Urgent |
 | Sabhyata | Pet Healthcare CRM Ecom Tile | Urgent |
 | Sabhyata | Funnel Drop Off — Pet HC WA | Urgent |
-| Ishika | Arabyads invoice — retained user discovery actioned | High |
+| Nitish | Peptide pricing/nutrients verification post-launch | High |
+| Bilge + Yana | April conversion drop investigation (PG/PH) | High |
 | Brand Team | Glutathione ad copy approval | Critical |
-| Sandeep / Nitish | Free mental health bookings report | High |
 | Bilge + Ameya | HC Concept Test call — V1 structure finalisation | High |
-| Rabiah | Flyers count + distribution plan (pet healthcare) | Medium |
-| Rabin | IV Therapy funnel updated — Skin, Hair & Nails IV Drip now live | Info |
+| Rabiah | AED 10 Zonal HC booking numbers | Medium |
+| Sandeep | Urine Culture & Sensitivity Test naming decision | Medium |
+| Ishika | Arabyads S2S discrepancy — rescheduled, Bilge flagged | Medium |
 
 ## Key Metrics (last known)
 | Metric | Value | Channel / Context | Date |
@@ -107,3 +121,4 @@ generated_by: evening-briefing
 | HC Concept Test — V1 Meta incremental CPI | $130.70 | V1 wins vs V2 ($309.68) | 20.04.2026 |
 | HC Concept Test — V1 Adjust CPI | $94.40 | V1 wins vs V2 ($212.91) | 20.04.2026 |
 | HC Concept Test — Version C delivery | 73% | Highest delivery, best CPI in both V1 and V2 | 20.04.2026 |
+| Lab Test AB Test — AED 50 Off wins | Better CTR, conv rate, dashboard CPA | vs AED 60 Off | ~23.04.2026 |

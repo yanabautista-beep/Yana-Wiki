@@ -1,5 +1,10 @@
 # Decisions Log
 
+## 23.04.2026
+
+**Peptides launched under IV Therapy (before deadline)**
+Rabin M confirmed Peptides is now live under IV Therapy in #healthtasks. Launched 23.04.2026 — one day before the 24.04 Arabic translation deadline. Nitish tasked with verifying pricing and key nutrients per brief. Source: #healthtasks, Rabin M.
+
 ## 20.04.2026
 
 **HC Concept Test — V1 structure wins (5-day results)**
