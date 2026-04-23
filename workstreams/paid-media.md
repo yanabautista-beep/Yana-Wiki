@@ -1,7 +1,7 @@
 ---
 summary: Paid acquisition across Meta, Google, TikTok, and Snapchat for UAE and KSA markets.
 status: Active
-last_updated: 17.04.2026
+last_updated: 20.04.2026
 ---
 
 # Paid Media
@@ -14,7 +14,8 @@ Active paid campaigns running across Meta, Google (Search + PMax), TikTok, and S
 
 - **Diabetic Profile campaign (Meta)** — HP1C at AED 49, under review [OPEN]
 - **Lab Test Survey Like Creative Campaign** — alignment pending [OPEN]
-- **HC Concept Ads** — creatives to be added and taken live [OPEN]
+- **HC Concept Ads** — creatives to be added and taken live [OPEN]; pending call with Bilge + Ameya to finalise V1 structure
+- **HC Concept Test — 5-day results (20.04.2026)** — V1 wins: Meta incremental CPI $130.70 vs V2 $309.68; Adjust CPI $94.40 vs V2 $212.91; Version C 73% delivery (best). Bilge recommends finalisation call before taking ads live.
 - **Glutathione IV Therapy Google Search** — campaign prepared, KWs and ad copies ready, pending brand team approval on ad copies
 - **Pet Healthcare Meta boost** — separate ad-set at $100 daily
 - **New Arabyads Voucher Codes** — pending [OPEN]

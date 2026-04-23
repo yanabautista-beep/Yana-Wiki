@@ -2,6 +2,14 @@
 
 ## 20.04.2026
 
+**HC Concept Test — V1 structure wins (5-day results)**
+V1 (all ads under one consolidated adset) beats V2 on CPI. Meta incremental CPI: V1 $130.70 vs V2 $309.68. Adjust CPI: V1 $94.40 vs V2 $212.91. Version C creative had 73% delivery — best across both structures and best CPI. Next step: call with Bilge + Ameya to finalise structure, then share insights with brand team. Source: #ameya-bilge-yana (Bilge Hasekioglu).
+
+**IV Therapy funnel — Hair Strengthening Drip replaced**
+Hair Strengthening Drip inactivated from funnel. Skin, Hair & Nails IV Drip is now live as a new attribute (trackable separately in BI). Source: Group DM (Yana/Sandeep/Usama/Rabin/Nitish/Pallavi), Rabin M.
+
+## 20.04.2026
+
 **Mental health Google Search — stop optimizing, wait for Meta creatives**
 Google Search not performing and has limited optimization room. Decision: no further optimization. Will launch Meta campaign when creatives arrive (expected end of week / early next week). Source: #healthtasks, DM with Nitish/Bilge.
 

@@ -1,5 +1,5 @@
 ---
-last_updated: 20.04.2026
+last_updated: 21.04.2026
 generated_by: evening-briefing
 ---
 # Wiki State Snapshot — Justlife Digital Marketing
@@ -32,12 +32,14 @@ generated_by: evening-briefing
 | New Arabyads Voucher Codes | Yana |
 | Finalize Initiative Tracker | Yana |
 | Meta creative placement fix — Pet HC Thank You Pop Up | Yana |
+| Peptide Arabic Translations — confirm on track for 24.04 deadline | Yana / Sandeep |
+| HC Concept Test — schedule call with Bilge + Ameya to finalise structure | Yana |
 
 ## Workstream Status
 | Workstream | Status | Last Signal | Watch |
 |---|---|---|---|
-| Paid Media | Active — Meta social-boost reel boosted today; HC Concept Ads open; Glutathione pending brand | 20.04.2026 | Watch: Glutathione delay; mental health Meta creatives |
-| Healthcare Vertical | Active — Pet HC pop-up RESOLVED; mental health Search underperforming; Lab Test WA Sunday unconfirmed | 20.04.2026 | Watch: Lab Test WA confirmation; 7 open items |
+| Paid Media | Active — HC Concept Test V1 wins (5-day results); social-boost reel boosted; Glutathione pending brand | 20.04.2026 | Watch: Glutathione delay; schedule HC concept call with Bilge + Ameya |
+| Healthcare Vertical | Active — Pet HC pop-up RESOLVED; IV Therapy funnel updated (Skin, Hair & Nails live); mental health Search underperforming; Lab Test WA Sunday unconfirmed | 20.04.2026 | Watch: Lab Test WA confirmation; Peptide 24.04 deadline |
 | KSA Expansion | Active — PMax live in Riyadh/Jeddah/Dammam; TikTok/Snapchat creatives pending | 17.04.2026 | Watch: creatives (171d stale) |
 | CRM & Email | Active — Sabhyata managing HC CRM tasks; Lab Test WA Sunday status unknown | 20.04.2026 | Watch: Lab Test WA |
 | Affiliate | Active — March 2026 invoice contains retained users; decision pending from Ameya | 20.04.2026 | Watch: invoice dispute |
@@ -65,6 +67,10 @@ generated_by: evening-briefing
 | Free Mental Health bookings report | Sandeep / Nitish | Requested | 0 |
 | Meta creative placement fix (pet HC pop up) | Yana | Open | 0 |
 | Lab Test WA Sunday send — confirm status | Sabhyata | Unknown | 0 |
+| Peptide Arabic Translations — confirm on track, 24.04 deadline | Yana / Sandeep | No response yet | 0 |
+| HC Concept Test — schedule call (Bilge + Ameya) to finalise V1 structure | Yana | Open | 0 |
+| Flyers — confirm count + distribution plan for pet healthcare | Yana | Pending reply to Rabiah | 0 |
+| Pallavi HC Ads — review Asana tags | Yana | Pending | 0 |
 
 ## Active Experiments
 | Experiment | Channel | Status | Signal |
@@ -81,6 +87,9 @@ generated_by: evening-briefing
 | Ishika | Arabyads invoice — retained user discovery actioned | High |
 | Brand Team | Glutathione ad copy approval | Critical |
 | Sandeep / Nitish | Free mental health bookings report | High |
+| Bilge + Ameya | HC Concept Test call — V1 structure finalisation | High |
+| Rabiah | Flyers count + distribution plan (pet healthcare) | Medium |
+| Rabin | IV Therapy funnel updated — Skin, Hair & Nails IV Drip now live | Info |
 
 ## Key Metrics (last known)
 | Metric | Value | Channel / Context | Date |
@@ -95,3 +104,6 @@ generated_by: evening-briefing
 | KSA PMax Budget — Riyadh + Jeddah | $125/day each | Live | Oct 2025 |
 | UAE Home Cleaning Total App Spend (Jan 1-24) | $21,983 | Meta $11.9k, TikTok $10k | Jan 2024 |
 | Pet Grooming — Sunday bookings | 233 total / 206 completed | 4.83 rating, 82 ratings | 20.04.2026 |
+| HC Concept Test — V1 Meta incremental CPI | $130.70 | V1 wins vs V2 ($309.68) | 20.04.2026 |
+| HC Concept Test — V1 Adjust CPI | $94.40 | V1 wins vs V2 ($212.91) | 20.04.2026 |
+| HC Concept Test — Version C delivery | 73% | Highest delivery, best CPI in both V1 and V2 | 20.04.2026 |
