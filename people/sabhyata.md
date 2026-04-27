@@ -20,14 +20,16 @@ CRM specialist. Primary owner of Healthcare CRM tasks. Works with Yana on briefs
 
 - 17.04.2026: Pet Healthcare credits going live as additional credits (second half of day). Ecom design pushed to next week — brand couldn't deliver. Pet Healthcare Thank You Pop + PN triggered; pending confirmation.
 - 20.04.2026: **Pet Healthcare Thank You Pop Up RESOLVED** — Sabhyata changed banner logic; Nitish confirmed working.
-- 20.04.2026: Lab Test WA (Sunday) — planned for today, status unconfirmed in Slack.
+- 27.04.2026: **PG Thank You banner broken again** — Nitish flagged not visible. Yana asked Sabhyata to investigate. Ameya sees no journey issue. Tested on Sandeep's device — same problem. Unresolved.
+- 27.04.2026: Pet HC email creatives shared by Yana (Drive folder). Emailer now unblocked — schedule Mon or Wed.
 
 ## Open Items
 
 | Item | Status | Notes |
 |---|---|---|
-| Lab Test WA Sunday send | Unknown | Planned for 20.04 — confirm |
-| Pet Healthcare CRM Ecom Tile | Open | Pushed to next week |
+| PG Thank You banner broken again | Investigating | Reported 27.04; tested on Sandeep's device — same issue |
+| Pet Healthcare email | Unblocked — schedule Mon or Wed | Creatives received from Yana 27.04 |
+| Pet Healthcare CRM Ecom Tile | Open | Pushed from earlier |
 | Funnel Drop Off — Pet Healthcare (Content & WA) | Open | In progress with Yana |
 
 ## Delivery Patterns

@@ -1,7 +1,7 @@
 ---
 summary: Affiliate marketing via Arabyads — voucher-based campaigns with S2S tracking, invoicing via Ishika.
 status: Active
-last_updated: 20.04.2026
+last_updated: 27.04.2026
 ---
 
 # Affiliate Marketing
@@ -12,7 +12,7 @@ Arabyads is the active affiliate partner. Campaigns run on voucher codes. Attrib
 
 Two active issues:
 1. **S2S attribution discrepancy** (raised Jul 2025) — Arabyads reporting appointment IDs that don't match SQL backend (appointments used different vouchers, credits, or no code). Still open.
-2. **March 2026 invoice — retained users discovered** (20.04.2026) — Invoice contains retained user bookings missed from Justlife's side. Yana escalated to Ameya with two options: (a) revise invoice with Arabyads to remove retained bookings, (b) pay at $5 payout. Decision pending from Ameya.
+2. **March 2026 invoice — RESOLVED 27.04.2026** — Arabyads agreed to revise invoice; Justlife only pays for new users. Ishika paused returning-user voucher codes immediately.
 
 ## Partner: Arabyads
 
@@ -32,10 +32,11 @@ Two active issues:
 
 | Item | Owner | Status | Days Open |
 |---|---|---|---|
-| Arabyads March invoice decision — retained users | Ameya | Pending decision | 0 |
-| New Arabyads Voucher Codes | Yana | Open | 17 |
-| Get affiliate estimate for finance | Yana | Open | 17 |
-| Resolve Arabyads S2S attribution discrepancy | Yana / Tech | Open | 277 |
+| Arabyads March invoice decision — retained users | ~~Ameya~~ | RESOLVED 27.04.2026 — only paying new users | — |
+| RBX campaign dispute — mark existing vs acquisition bookings | Yana | Open | 3 |
+| New Arabyads Voucher Codes | Yana | Open | 24 |
+| Get affiliate estimate for finance | Yana | Open | 24 |
+| Resolve Arabyads S2S attribution discrepancy | Yana / Tech | Open | 284 |
 
 ## Backlinks
 

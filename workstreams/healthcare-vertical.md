@@ -1,7 +1,7 @@
 ---
 summary: Healthcare at Home vertical — Lab Tests, IV Therapy, Doctor Consultation, Pet Healthcare, Glutathione, Cancer Screening, Peptides.
 status: Active
-last_updated: 23.04.2026
+last_updated: 27.04.2026
 ---
 
 # Healthcare Vertical
@@ -28,7 +28,7 @@ Healthcare is the primary growth vertical across paid and CRM. Multiple sub-vert
 ## Key Initiatives
 
 - **HC Concept Ads** — new creative concepts being developed; add creatives and take live [OPEN 6d]
-- **Pet Healthcare Thank You Pop Up** — **RESOLVED 20.04.2026** — Sabhyata fixed logic; Nitish confirmed working
+- **Pet Healthcare Thank You Pop Up / PG Banner** — Resolved 20.04.2026. **BROKEN AGAIN 27.04.2026** — Nitish flagged PG Thank You banner not visible; Sabhyata investigating; tested on multiple devices, same issue
 - **Pet Healthcare Push Notification** — [OPEN 4d]
 - **Pet Healthcare CRM Ecom Tile** — [OPEN 4d]
 - **Pet Healthcare Funnel Drop Off** — analysis in progress [OPEN 6d]
@@ -39,6 +39,7 @@ Healthcare is the primary growth vertical across paid and CRM. Multiple sub-vert
 - **Pet Grooming Revamp** — funnel and creatives updated by Rabin, live 17.04.2026
 - **IV Therapy funnel update** — Hair Strengthening Drip inactivated; Skin, Hair & Nails IV Drip now live as new attribute (20.04.2026, Rabin)
 - **Peptide launch** — **LIVE 23.04.2026** (one day before 24.04 deadline). Rabin M confirmed in #healthtasks. Nitish cross-checking pricing and key nutrients per brief.
+- **Peptide attribute names** — **DECIDED 27.04.2026**: keep clinical/wellknown names (not consumer-friendly). Rupa + Nitish aligned. Pallavi updated ENG content sheet. AR content pending Dina (28.04).
 - **HC Concept Test results** — V1 wins (5-day results): V1 Meta CPI $130.70 / Adjust $94.40 vs V2 $309.68 / $212.91; Version C best delivery (73%). Bilge recommends call to finalise structure with Ameya, then share with brand team (20.04.2026)
 
 ## Pet Grooming Sunday Metrics (20.04.2026)
@@ -69,7 +70,7 @@ Sabhyata owns CRM tasks for Healthcare. Pending tasks include:
 - Pet Healthcare creative brief submitted to BD; prioritization needed
 - HC Concept Test structure — call with Bilge + Ameya needed to finalise before HC Concept Ads go live
 - Urine Culture & Sensitivity Test naming — 0 search volume vs clinical need debate; "Urine analysis & culture test" proposed by Sandeep (23.04.2026)
-- April conversion drop — PG and PH conversions declining in April despite session spikes; Nitish correlating with launch of search campaigns; Yana + Bilge to investigate (23.04.2026)
+- April conversion drop — **ESCALATED 27.04.2026**: Nitish flagged 22–26 Apr avg CR 0.90%; crashed to 0.21% on 26.04. Lab at Home sessions double usual volume on 26.04 — source unknown. High session days (8, 17, 18, 24, 25, 26 Apr) all low converting. Yana + Bilge to investigate entry points and session sources urgently.
 
 ## Open Items
 

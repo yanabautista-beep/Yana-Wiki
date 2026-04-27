@@ -1,7 +1,7 @@
 ---
 summary: Paid acquisition across Meta, Google, TikTok, and Snapchat for UAE and KSA markets.
 status: Active
-last_updated: 20.04.2026
+last_updated: 27.04.2026
 ---
 
 # Paid Media
@@ -68,10 +68,15 @@ Active paid campaigns running across Meta, Google (Search + PMax), TikTok, and S
 - Discount-to-GMV decreased 5.68%, PC1 increased 3.13% (HC10 period)
 - UAE Home Cleaning app spend Jan 1-24 2024: Meta $11,929, TikTok $10,053, Total $21,983
 
+## Conversion Alert (27.04.2026)
+
+Lab at Home sessions were double usual volume on 26.04 (source unknown). Conversion rate crashed: avg 22–26 Apr was 0.90%; on 26.04 dropped to 0.21%. Nitish flagged to Yana + Bilge. High-session days (8, 17, 18, 24, 25, 26 Apr) all show low conversion. Investigation pending: what drove sessions? What are app entry points?
+
 ## Blockers
 
 - Glutathione campaign waiting on brand team ad copy approval
 - TikTok/Snapchat KSA creatives awaited before campaigns go live
+- Lab Test conversion crash — urgent investigation with Bilge needed
 
 ## Open Items
 

@@ -1,5 +1,46 @@
 # Decisions Log
 
+## 27.04.2026
+
+**Arabyads March 2026 invoice: revised to new users only — returning-user voucher codes paused**
+Arabyads agreed to revise the invoice. Justlife will only pay for new user bookings. Ishika paused returning-user voucher codes immediately. Source: Group DM (Bilge / Yana / Ishika), Yana.
+
+**Peptide attribute names: keep clinical/wellknown names**
+Nitish (supported by Rupa) argued clinical names are search-standard for Peptides (high-ticket, niche audience). Pallavi originally proposed consumer-friendly names. Rupa aligned: maintain wellknown names as the standard. Pallavi updated ENG content sheet. Arabic content pending Dina (28.04). Source: #healthtasks.
+
+## 26.04.2026
+
+_No new decisions — weekend day. All Friday 24.04 decisions carry forward._
+
+## 24.04.2026
+
+**Healthcare daily budget increased by $400/day; target ~$1,400/day**
+IV Meta +$200; Doctor at Home + GLP-1 Google Search $50 each (now live); Pet HC Meta +$100 pending creatives. Source: DM Bilge/Yana huddle.
+
+**IV Therapy Meta AB test to restart with view-through attribution**
+New structure: main campaign +$100, two AB test campaigns +$50 each; include 1-day view + same-day click attribution. Source: DM Bilge/Yana.
+
+**Lab Test AB test: AED 50 Off (Variant A) wins — AED 60 Off paused**
+Variant A better CTR, conversion rate, dashboard CPA. Paused Variant B. Source: DM Bilge/Yana.
+
+**HC Concept test: V2A + V2B paused; consolidate to V2C; V1 vs V2C for 7 more days**
+V2 moved to third ad position. Bilge advocating V1 structure long-term (easier maintenance, better learning). Source: DM Bilge/Yana.
+
+**KSA paid campaigns: wait weekend, take action Monday**
+Re-engagement CPM + frequency down (positive). Riyadh Search + TikTok: no incremental bookings from budget increase. Yesterday's call conclusion. Source: DM Bilge/Yana.
+
+**RBX campaign dispute: mark existing vs acquisition bookings, negotiate**
+KK22 + TA1 vouchers ran during external acquisition period — existing users could book. Plan: mark bookings in Excel, argue vouchers shouldn't have been visible; worst case $5/existing user. Source: DM Bilge/Yana.
+
+**CRM vouchers: pause all except Ajman + HCD30**
+Bilge shared spreadsheet and instructed to pause all CRM vouchers except last Ajman one. HCD30 also kept (live on app banner, Bilge confirmed). Source: DM Bilge/Yana.
+
+**Pet HC emailer: send Monday or Wednesday depending on Pallavi creatives**
+Sabhyata confirmed she will schedule earliest Monday or Wednesday depending on when Pallavi delivers creatives (expected EOD 24.04). Source: DM Bilge/Yana.
+
+**Doctor at Home CRM campaign: to be added to initiative tracker**
+Bilge requested adding Doctor at Home CRM campaign to initiative tracker and planning it. Source: DM Bilge/Yana.
+
 ## 23.04.2026
 
 **Peptides launched under IV Therapy (before deadline)**
