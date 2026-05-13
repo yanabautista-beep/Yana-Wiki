@@ -1,5 +1,14 @@
 # Decisions Log
 
+## 13.05.2026
+
+_No new decisions — no Slack activity today. Last decisions logged 08.05.2026._
+
+## 08.05.2026
+
+**Budget restructure — total daily budget set to $700/day**
+Spa reduced by $50/day. Non-TikTok HC campaigns reduced to $180/day. TikTok budget unchanged at $320/day. AC Cleaning campaign taken live at $150/day. Source: Slack D02E7Q76T2T.
+
 ## 27.04.2026
 
 **Arabyads March 2026 invoice: revised to new users only — returning-user voucher codes paused**
