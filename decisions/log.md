@@ -1,5 +1,9 @@
 # Decisions Log
 
+## 15.05.2026
+
+_No new decisions — Bilge deferred all discussions to Monday 18.05._
+
 ## 13.05.2026
 
 _No new decisions — no Slack activity today. Last decisions logged 08.05.2026._
