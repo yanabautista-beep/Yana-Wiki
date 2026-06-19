@@ -17,7 +17,10 @@ generated_by: evening-briefing
 ## URGENT
 | Item | Owner |
 |---|---|
-| Share YT influencer video spend/performance numbers with Bilge | Yana |
+| Compile influencer vs. generic video performance Excel report, share with Bilge — due today or Monday | Yana |
+| Apply CPC increases on HC Google campaigns — 10% default, 20% where noted | Yana |
+| Verify per-channel spend vs. new dashboard (Google must include ad extensions) | Yana |
+| Decrease P-Max target CPA 10%; increase Laser funnel-retargeting budget; shift ~35% of IV search budget to retargeting | Yana |
 | Wisewell Funnel Plan — align Ameya/Bilge + create Asana task | Yana |
 | PG Thank You banner broken again [STALE — no signal since 27.04] | Sabhyata |
 | KSA Monday review [STALE — no signal since 27.04] | Yana / Bilge |
@@ -28,6 +31,13 @@ generated_by: evening-briefing
 ## HIGH
 | Item | Owner |
 |---|---|
+| Go through creative asset tracker — update availability/usage fields, take new HC videos live on TikTok + Meta | Yana |
+| Send HTML file for change-history feature for shared dashboard | Yana |
+| Investigate voucher count discrepancy — 34 (campaign view) vs 24 (dashboard report), check at database level | Yana |
+| Book a call after KSA meeting to discuss initiatives | Yana |
+| Check GLP account separately (tracked outside main dashboard) | Yana |
+| Share Sept initiatives deck/draft file | Yana |
+| Fix Google + TikTok campaign link redirects in new marketing dashboard | Tech / Yana |
 | Pet HC conversion rate 1.5% declining — root cause diagnosed (discount + funnel), fix pending | Yana / Bilge |
 | Complete Analysis on all KSA campaigns | Yana |
 | HC Concept Test — technical call with Bilge + Ameya to finalise structure | Yana |
