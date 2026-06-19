@@ -17,7 +17,8 @@ generated_by: evening-briefing
 ## URGENT
 | Item | Owner |
 |---|---|
-| Compile influencer vs. generic video performance Excel report, share with Bilge — due today or Monday | Yana |
+| Check justlife-dashboards Vercel deployment failure — link just shared with Bilge, must show current data | Yana |
+| Confirm with Bilge whether generic + influencer creatives use the same ad format (explains 0% engagement on generic) | Yana / Bilge |
 | Apply CPC increases on HC Google campaigns — 10% default, 20% where noted | Yana |
 | Verify per-channel spend vs. new dashboard (Google must include ad extensions) | Yana |
 | Decrease P-Max target CPA 10%; increase Laser funnel-retargeting budget; shift ~35% of IV search budget to retargeting | Yana |
@@ -96,6 +97,8 @@ generated_by: evening-briefing
 ## Recently Resolved
 | Item | Resolution | Date |
 |---|---|---|
+| TikTok credit line check (Bilge asked) | Confirmed $37,834.21 remaining, shared with Bilge | 19.06.2026 |
+| YT Influencer Boost Check report | Sent to Bilge via dashboard link; new creatives outperformed generic despite lower spend | 19.06.2026 |
 | Arabyads March 2026 invoice — retained users | Arabyads revised; only paying new users; Ishika paused returning-user codes | 27.04.2026 |
 | Peptide attribute names | Keep clinical/wellknown names decided — ENG fixed; AR 28.04 | 27.04.2026 |
 | Initiative Tracker | Finalized after 21d stale | 24.04.2026 |
