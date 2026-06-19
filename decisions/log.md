@@ -1,5 +1,13 @@
 # Decisions Log
 
+## 19.06.2026
+
+**Discontinue Meta concept A/B testing — move to multiple-adset CBO model for all verticals**
+Bilge ended concept-vs-concept A/B testing on Meta. New standard structure: multiple ad sets under one CBO (Campaign Budget Optimization) model, applied across all verticals. Supersedes the HC Concept V1 vs V2C test. Source: Group DM (Bilge/Satpal/Eda/Ishika/Yana).
+
+**Creative request cadence fixed at 2 designs per cycle via brand-ops-intake-form**
+Standing process: request 2 designs every 2-3 weeks (1 new concept + 1 "UC-like") regardless of Brand team bandwidth. Requests go through brand-ops-intake-form.vercel.app, which auto-updates the creative scheduling sheet. Source: Group DM, Bilge.
+
 ## 15.05.2026
 
 _No new decisions — Bilge deferred all discussions to Monday 18.05._

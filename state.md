@@ -1,5 +1,5 @@
 ---
-last_updated: 27.04.2026
+last_updated: 19.06.2026
 generated_by: evening-briefing
 ---
 # Wiki State Snapshot — Justlife Digital Marketing
@@ -17,11 +17,13 @@ generated_by: evening-briefing
 ## URGENT
 | Item | Owner |
 |---|---|
-| PG Thank You banner broken again — Sabhyata investigating, multi-device confirmed broken | Sabhyata |
-| KSA Monday review — supposed to happen today (27.04); no Slack signal it happened | Yana / Bilge |
-| Pet HC Meta Traffic Campaign — take live (Pallavi creatives status unclear) | Yana |
-| AED 10 Zonal HC booking numbers — share with Rabiah | Yana |
-| Pet HC emailer — schedule Mon or Wed (Sabhyata now has creatives) | Sabhyata |
+| Share YT influencer video spend/performance numbers with Bilge | Yana |
+| Wisewell Funnel Plan — align Ameya/Bilge + create Asana task | Yana |
+| PG Thank You banner broken again [STALE — no signal since 27.04] | Sabhyata |
+| KSA Monday review [STALE — no signal since 27.04] | Yana / Bilge |
+| Pet HC Meta Traffic Campaign — take live [STALE] | Yana |
+| AED 10 Zonal HC booking numbers — share with Rabiah [STALE] | Yana |
+| Pet HC emailer — schedule Mon or Wed [STALE] | Sabhyata |
 
 ## HIGH
 | Item | Owner |
@@ -98,9 +100,10 @@ generated_by: evening-briefing
 ## Active Experiments
 | Experiment | Channel | Status | Signal |
 |---|---|---|---|
-| Funnel vs LP Captions AI (Jeddah) | Meta | Active | Launched 29.05.2025 — results pending |
-| HC Concept V1 vs V2C | Meta | Active — ~4 days remaining | V2A + V2B paused; V2C consolidation; started 24.04.2026 |
-| IV Therapy Meta AB test | Meta | Restarting with view-through attribution | 24.04.2026 |
+| Funnel vs LP Captions AI (Jeddah) | Meta | [STALE] — no signal since 29.05.2025 | Results never confirmed |
+| HC Concept V1 vs V2C | Meta | SUPERSEDED 19.06.2026 — Bilge ended concept A/B testing in favor of multiple-adset CBO model for all verticals | 19.06.2026 |
+| IV Therapy Meta AB test | Meta | [STALE] — no signal since 24.04.2026 | — |
+| Multiple-adset CBO model (all verticals) | Meta | NEW — replaces concept testing | 19.06.2026 |
 
 ## People Watch List
 | Person | Open Item | Urgency |
