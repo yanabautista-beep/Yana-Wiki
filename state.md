@@ -97,6 +97,9 @@ generated_by: evening-briefing
 ## Recently Resolved
 | Item | Resolution | Date |
 |---|---|---|
+| Brand Boost | Closed by Yana | 19.06.2026 |
+| Briefs for new concept ads & UC-like ads | Closed by Yana — first cycle under the new creative request process | 19.06.2026 |
+| Trustpilot access & update | Closed by Yana — primary login transferred, Prasheela added as admin, phone number removed from account | 19.06.2026 |
 | TikTok credit line check (Bilge asked) | Confirmed $37,834.21 remaining, shared with Bilge | 19.06.2026 |
 | YT Influencer Boost Check report | Sent to Bilge via dashboard link; new creatives outperformed generic despite lower spend | 19.06.2026 |
 | Arabyads March 2026 invoice — retained users | Arabyads revised; only paying new users; Ishika paused returning-user codes | 27.04.2026 |
