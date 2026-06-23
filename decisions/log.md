@@ -1,5 +1,22 @@
 # Decisions Log
 
+## 23.06.2026
+
+**Full HC + Healthcare budget review and reallocation**
+Bilge went through the trend analyzer and paid dashboards, posted detailed per-vertical actions:
+- Home Cleaning: increase budget on AR Google Search Acquisition + both TikTok re-engagement campaigns (funded by moving budget from Meta iOS app install); add new HC influencer videos to all running TikTok campaigns; start a bi-weekly TikTok ad optimization cadence (same as KSA). Overall HC budget unchanged.
+- Brand: decrease target CPA ~10% on Google Android Purchase App campaign (budget-limited).
+- Lab Test: increase Meta funnel-abandonment retargeting budget 3x (currently 93x ROAS, very good CPB); optimize search CPC (budget-limited).
+- GLP-1: cut Facebook Broad-V2 by 50%, move to App-Reengagement-V2; cut Google PMax 25%, move to Search (low impression share).
+- Doctor at Home: double Facebook retargeting (last 30 days) budget; on Search, CTR spiked to 21% — decrease CPC 20%, increase budget 50%, funded by moving budget FROM Lab Test search.
+Source: #ameya-bilge-yana, Bilge.
+
+**Weekend healthcare sale — IV vs Lab vs AC, unresolved**
+Ameya leaning toward an IV bundle sale this weekend; Nitish flagged the original plan was Lab this week, IV the following week. AC Sale is also planned the same weekend, competing for creative bandwidth. Not yet decided. Source: #healthcare_funnel_requests.
+
+**Compliance copy correction — nurse licensing wording**
+Replacing "Administered by DHA/SHA/DOH Licensed Nurse" with "Administered by DHA/MOH/DOH Licensed Nurse" across IV Therapy content, starting 23.06, ahead of the weekend sale. Source: #healthcare_funnel_requests, Nitish.
+
 ## 23.06.2026 (Bilge instruction sent 22.06 while Yana was out)
 
 **HC Concept Ads: new creatives go live in separate ad sets, pause worst performers**

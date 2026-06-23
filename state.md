@@ -17,6 +17,9 @@ generated_by: evening-briefing
 ## URGENT
 | Item | Owner |
 |---|---|
+| Resolve weekend sale conflict — IV bundle vs Lab vs AC Sale, all competing for the same weekend + creative bandwidth | Yana / Ameya / Nitish |
+| Compliance copy fix — replace "DHA/SHA/DOH Licensed Nurse" with "DHA/MOH/DOH Licensed Nurse" before weekend sale goes live | Nitish / Rabin |
+| Execute Bilge's full HC + Healthcare budget review (23.06, #ameya-bilge-yana) — see Workstream Status for per-vertical actions | Yana |
 | Take new HC Concept Ads live (Figma + ad copies from Bilge, 22.06) — separate ad sets, same structure as existing; pause worst-performing current ads | Yana |
 | Discuss HC Concept Ads rollout with Bilge on today's 2:30pm call | Yana / Bilge |
 | Check justlife-dashboards Vercel deployment failure — link just shared with Bilge, must show current data | Yana |
@@ -57,7 +60,7 @@ generated_by: evening-briefing
 | Workstream | Status | Last Signal | Watch |
 |---|---|---|---|
 | Paid Media | Active — Lab Test sessions doubled 26.04 (source unknown); conversion crashed 0.21%; HC budget ~$1,400/day; KSA Monday review status unclear | 27.04.2026 | Watch: Lab conversion crisis; KSA review |
-| Healthcare Vertical | Active — PG Thank You banner broken again; Lab Test CR crash 0.21%; Peptide names decided (clinical); Pet HC emailer unblocked; Pet HC CR 1.5% declining | 27.04.2026 | Watch: PG banner; Lab CR crash; Pet HC CR |
+| Healthcare Vertical | Active — Bilge's 23.06 budget review: Lab Test +ve WoW/LMW (Meta funnel-abandonment retargeting at 93x ROAS → 3x budget; search CPC optimize); GLP-1 big LMW session jump but low bookings (cut FB Broad-V2 50% → App-Reengagement-V2; cut Google PMax 25% → Search); IV Therapy +ve WoW/-ve LMW, Google fully negative; Pet HC similar to IV; Doctor at Home +ve WoW/-ve LMW funnel but Google all positive — high competition (double FB retargeting budget; Search CTR spiked to 21%, decrease CPC 20%/increase budget 50%, fund from Lab Test search). Weekend sale conflict unresolved (IV vs Lab vs AC, same weekend). Compliance copy fix (DHA/SHA/DOH → DHA/MOH/DOH) in progress before sale launch. | 23.06.2026 | Watch: weekend sale decision; GLP-1 booking conversion; Doctor at Home competition |
 | KSA Expansion | Active — PMax live; Monday review supposed to happen today — no signal | 27.04.2026 | Watch: KSA review action; creatives (178d stale) |
 | CRM & Email | Active — Pet HC emailer unblocked (Sabhyata has creatives); WA/PN May content in review | 27.04.2026 | Watch: Emailer send; May WA/PN review |
 | Affiliate | Active — Arabyads March invoice RESOLVED (new users only); returning-user codes paused by Ishika; RBX dispute open | 27.04.2026 | Watch: RBX dispute |
