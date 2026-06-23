@@ -1,5 +1,5 @@
 ---
-last_updated: 19.06.2026
+last_updated: 23.06.2026
 generated_by: evening-briefing
 ---
 # Wiki State Snapshot — Justlife Digital Marketing
@@ -17,6 +17,8 @@ generated_by: evening-briefing
 ## URGENT
 | Item | Owner |
 |---|---|
+| Take new HC Concept Ads live (Figma + ad copies from Bilge, 22.06) — separate ad sets, same structure as existing; pause worst-performing current ads | Yana |
+| Discuss HC Concept Ads rollout with Bilge on today's 2:30pm call | Yana / Bilge |
 | Check justlife-dashboards Vercel deployment failure — link just shared with Bilge, must show current data | Yana |
 | Confirm with Bilge whether generic + influencer creatives use the same ad format (explains 0% engagement on generic) | Yana / Bilge |
 | Apply CPC increases on HC Google campaigns — 10% default, 20% where noted | Yana |

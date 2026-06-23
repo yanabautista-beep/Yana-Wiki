@@ -1,5 +1,10 @@
 # Decisions Log
 
+## 23.06.2026 (Bilge instruction sent 22.06 while Yana was out)
+
+**HC Concept Ads: new creatives go live in separate ad sets, pause worst performers**
+Bilge shared new Figma + ad copies. Roll out under separate ad sets following the existing structure (consistent with the 19.06 move to multiple-adset CBO model). Pause the worst-performing current ads to make room. Source: DM Bilge/Yana.
+
 ## 19.06.2026
 
 **Discontinue Meta concept A/B testing — move to multiple-adset CBO model for all verticals**
