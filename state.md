@@ -1,5 +1,5 @@
 ---
-last_updated: 23.06.2026
+last_updated: 24.06.2026
 generated_by: evening-briefing
 ---
 # Wiki State Snapshot — Justlife Digital Marketing
@@ -10,152 +10,119 @@ generated_by: evening-briefing
 ## CRITICAL (act within 24h)
 | Item | Owner | Deadline |
 |---|---|---|
-| Lab Test conversion crash — 0.21% CR on 26.04, sessions double, high sessions all low-converting | Yana / Bilge | Urgent — investigate 28.04 |
+| Lab Test conversion crash — 0.21% CR on 26.04, sessions double, high sessions all low-converting | Yana / Bilge | Urgent — investigate |
 | Glutathione Google Search — take live once brand approves ad copies | Yana | Awaiting brand |
-| RBX campaign dispute — mark existing vs acquisition bookings | Yana | Urgent — 3d pending |
+| RBX campaign dispute — mark existing vs acquisition bookings | Yana | Urgent — ongoing |
 
 ## URGENT
 | Item | Owner |
 |---|---|
-| Resolve weekend sale conflict — IV bundle vs Lab vs AC Sale, all competing for the same weekend + creative bandwidth | Yana / Ameya / Nitish |
-| Compliance copy fix — replace "DHA/SHA/DOH Licensed Nurse" with "DHA/MOH/DOH Licensed Nurse" before weekend sale goes live | Nitish / Rabin |
 | Execute Bilge's full HC + Healthcare budget review (23.06, #ameya-bilge-yana) — see Workstream Status for per-vertical actions | Yana |
-| Take new HC Concept Ads live (Figma + ad copies from Bilge, 22.06) — separate ad sets, same structure as existing; pause worst-performing current ads | Yana |
-| Discuss HC Concept Ads rollout with Bilge on today's 2:30pm call | Yana / Bilge |
-| Check justlife-dashboards Vercel deployment failure — link just shared with Bilge, must show current data | Yana |
-| Confirm with Bilge whether generic + influencer creatives use the same ad format (explains 0% engagement on generic) | Yana / Bilge |
+| Resolve weekend sale conflict — IV vs Lab vs AC (IV Flash Sale Alignment happened 23.06 5pm — check outcomes) | Yana / Ameya / Nitish |
+| Compliance copy fix — replace "DHA/SHA/DOH Licensed Nurse" with "DHA/MOH/DOH Licensed Nurse" before weekend sale | Nitish / Rabin |
+| Take new HC Concept Ads live (Figma + ad copies from Bilge, 22.06) — separate ad sets, pause worst performers | Yana |
+| Align with Ameya on pre-flash sale comms | Yana / Ameya |
+| Triage Dina design review comments (22+ in Email Designs design tool, from 23.06) | Yana |
+| Check Vercel deployment — justlife-dashboards (failed 19.06, still unverified) | Yana |
+| Confirm with Bilge: generic + influencer creatives same ad format? (explains 0% engagement on generic) | Yana / Bilge |
 | Apply CPC increases on HC Google campaigns — 10% default, 20% where noted | Yana |
-| Verify per-channel spend vs. new dashboard (Google must include ad extensions) | Yana |
-| Decrease P-Max target CPA 10%; increase Laser funnel-retargeting budget; shift ~35% of IV search budget to retargeting | Yana |
-| Wisewell Funnel Plan — align Ameya/Bilge + create Asana task | Yana |
-| PG Thank You banner broken again [STALE — no signal since 27.04] | Sabhyata |
-| KSA Monday review [STALE — no signal since 27.04] | Yana / Bilge |
-| Pet HC Meta Traffic Campaign — take live [STALE] | Yana |
-| AED 10 Zonal HC booking numbers — share with Rabiah [STALE] | Yana |
-| Pet HC emailer — schedule Mon or Wed [STALE] | Sabhyata |
+| Verify outcomes of 23.06 Bilge/Yana 2:30pm call and IV Flash Sale Alignment (no Granola notes captured) | Yana |
 
 ## HIGH
 | Item | Owner |
 |---|---|
-| Go through creative asset tracker — update availability/usage fields, take new HC videos live on TikTok + Meta | Yana |
+| KSA videos check with Dina — she will try to review together 24.06, pending confirmation | Yana / Dina |
+| Check Home Cleaning App Install V4 (self-noted 24.06) | Yana |
+| Check KSA Women's Salon Re-engagement campaign (self-noted 24.06) | Yana |
+| Wisewell Funnel Plan — create Asana task + align Ameya/Bilge (open since 18.06) | Yana |
+| Decrease P-Max target CPA 10%; increase Laser funnel-retargeting budget; shift ~35% IV search budget to retargeting | Yana |
+| Creative asset tracker — update availability/usage fields, take new HC videos live on TikTok + Meta | Yana |
 | Send HTML file for change-history feature for shared dashboard | Yana |
-| Investigate voucher count discrepancy — 34 (campaign view) vs 24 (dashboard report), check at database level | Yana |
-| Book a call after KSA meeting to discuss initiatives | Yana |
+| Investigate voucher count discrepancy — 34 (campaign view) vs 24 (dashboard report) | Yana |
+| Book call after KSA meeting to discuss initiatives | Yana |
 | Check GLP account separately (tracked outside main dashboard) | Yana |
 | Share Sept initiatives deck/draft file | Yana |
+| Pet HC conversion rate declining — discount + funnel issue | Yana / Bilge |
 | Fix Google + TikTok campaign link redirects in new marketing dashboard | Tech / Yana |
-| Pet HC conversion rate 1.5% declining — root cause diagnosed (discount + funnel), fix pending | Yana / Bilge |
 | Complete Analysis on all KSA campaigns | Yana |
-| HC Concept Test — technical call with Bilge + Ameya to finalise structure | Yana |
-| Urine Culture Test naming decision — Nitish voted "Urine Culture Test" | Yana / Sandeep |
 | Doctor at Home CRM campaign — add to tracker + plan | Yana / Bilge |
-| Check Meta campaign — Diabetic Profile HbA1C at AED 49 | Yana |
-| New Arabyads Voucher Codes — 24d stale | Yana |
-| Funnel Drop Off — Pet Healthcare | Yana / Sabhyata |
-| Lab Test Survey Like Creative Campaign — brief created, in progress | Yana |
-| WA & PN May content — Lab Test + IV Therapy — review submitted to Pallavi + Gunes | Pallavi / Gunes |
-| Peptide AR attribute names — pending Dina (28.04) | Rabin / Dina |
+| New Arabyads Voucher Codes — stale | Yana |
 
 ## Workstream Status
 | Workstream | Status | Last Signal | Watch |
 |---|---|---|---|
-| Paid Media | Active — Lab Test sessions doubled 26.04 (source unknown); conversion crashed 0.21%; HC budget ~$1,400/day; KSA Monday review status unclear | 27.04.2026 | Watch: Lab conversion crisis; KSA review |
-| Healthcare Vertical | Active — Bilge's 23.06 budget review: Lab Test +ve WoW/LMW (Meta funnel-abandonment retargeting at 93x ROAS → 3x budget; search CPC optimize); GLP-1 big LMW session jump but low bookings (cut FB Broad-V2 50% → App-Reengagement-V2; cut Google PMax 25% → Search); IV Therapy +ve WoW/-ve LMW, Google fully negative; Pet HC similar to IV; Doctor at Home +ve WoW/-ve LMW funnel but Google all positive — high competition (double FB retargeting budget; Search CTR spiked to 21%, decrease CPC 20%/increase budget 50%, fund from Lab Test search). Weekend sale conflict unresolved (IV vs Lab vs AC, same weekend). Compliance copy fix (DHA/SHA/DOH → DHA/MOH/DOH) in progress before sale launch. | 23.06.2026 | Watch: weekend sale decision; GLP-1 booking conversion; Doctor at Home competition |
-| KSA Expansion | Active — PMax live; Monday review supposed to happen today — no signal | 27.04.2026 | Watch: KSA review action; creatives (178d stale) |
-| CRM & Email | Active — Pet HC emailer unblocked (Sabhyata has creatives); WA/PN May content in review | 27.04.2026 | Watch: Emailer send; May WA/PN review |
-| Affiliate | Active — Arabyads March invoice RESOLVED (new users only); returning-user codes paused by Ishika; RBX dispute open | 27.04.2026 | Watch: RBX dispute |
-| App Marketing | Active — UAE live; KSA Dammam pending creatives | 17.04.2026 | OK |
-| Analytics & Reporting | Active — Conversion crash investigation urgent; KSA analysis pending | 27.04.2026 | Watch: Lab Test CR crash; KSA analysis |
+| Paid Media | Active — Lab Test sessions doubled 26.04 (source unknown); conversion crashed 0.21%; HC budget ~$1,400/day | 24.06.2026 | Watch: Lab conversion crisis; Bilge budget review execution pending |
+| Healthcare Vertical | Active — Bilge's 23.06 budget review (6 verticals) not yet executed. Weekend sale conflict unresolved (IV Flash Sale Alignment meeting 23.06 5pm — outcomes unknown). Compliance copy fix (DHA/SHA/DOH → DHA/MOH/DOH) in progress. HC Concept Ads pending launch. | 24.06.2026 | Watch: sale decision; budget review execution; concept ads |
+| KSA Expansion | Active — Snapchat/Abdulrahman meeting scheduled for Jul 1 (Yana, Bilge, Ishika, Eda). KSA Marketing meeting tomorrow 4pm. KSA videos check with Dina pending. | 24.06.2026 | Watch: KSA review; creatives |
+| CRM & Email | Active — Wisewell PN sent today (24.06); GLP CRM send Friday (Sabhyata checking Faisal re: SV journey conflict). Wisewell e-com tile discussion ongoing. | 24.06.2026 | Watch: GLP Friday send; Wisewell e-com tile |
+| Affiliate | Active — Arabyads March invoice RESOLVED (new users only); RBX dispute open | 27.04.2026 | Watch: RBX dispute |
+| App Marketing | Active — UAE live; Extensions updated (24.06, Ishika) | 24.06.2026 | OK |
+| Analytics & Reporting | Active — Conversion crash investigation urgent; KSA analysis pending; Vercel deployment unverified since 19.06 | 24.06.2026 | Watch: Lab Test CR crash |
 
 ## Open Items
 | Item | Owner | Status | Days Open |
 |---|---|---|---|
-| Lab Test conversion crash — 0.21% CR on 26.04 | Yana / Bilge | NEW — CRITICAL — investigate | 0 |
-| PG Thank You banner broken again | Sabhyata | NEW — investigating | 0 |
-| WA & PN May review (Lab Test + IV Therapy) | Pallavi / Gunes | Submitted for review | 0 |
-| Peptide AR attribute names | Rabin / Dina | Pending Dina (28.04) | 0 |
-| Pet HC Meta Traffic Campaign — take live | Yana | Pending Pallavi creatives (status unclear) | 3 |
-| RBX campaign dispute — mark existing vs acquisition | Yana | Open | 3 |
-| Doctor at Home CRM campaign — plan + add to tracker | Yana / Bilge | Open | 3 |
-| AED 10 Zonal HC booking numbers — share with Rabiah | Yana | Open | 4 |
-| Urine Culture Test naming decision | Yana / Sandeep | Nitish voted "Urine Culture Test" | 4 |
-| April conversion drop investigation (PG/PH) | Yana / Bilge | ESCALATED — CR 0.21% | 4 |
-| Free Mental Health bookings report | Sandeep / Nitish | Requested | 7 |
-| Meta creative placement fix (pet HC pop up) | Yana | Open | 7 |
-| HC Concept Test — technical call (Bilge + Ameya) | Yana | Design done with Cem; technical pending | 7 |
-| Flyers — distribution plan + slot tracking | Yana | With BD team | 7 |
-| Pallavi HC Ads — review Asana tags | Yana | Pending | 7 |
-| KSA Conversion Lift Results | Yana | Open | 11 |
-| Check Meta — Diabetic Profile HbA1C at AED 49 | Yana | Open | 11 |
-| Pet Healthcare CRM Ecom Tile | Sabhyata | Open | 11 |
-| Lab Test Survey Like Creative Campaign | Yana | Brief created, in progress | 13 [STALE] |
-| Complete Analysis — KSA campaigns | Yana | Open | 13 [STALE] |
-| Funnel Drop Off — Pet Healthcare | Yana / Sabhyata | PN + WA automation set | 13 [STALE] |
-| HC Concept Ads — creatives to take live | Yana | Structure done; creatives pending | 13 [STALE] |
-| Healthcare concept ideas brief | Yana | Open | 13 [STALE] |
-| New Arabyads Voucher Codes | Yana | Open | 24 [STALE] |
-| Arabyads S2S attribution discrepancy | Yana / Tech | Open | 284 [STALE] |
-| KSA TikTok + Snapchat App Install creatives | Yana | Pending creatives | 178 [STALE] |
-| Create PMax alerts (KSA) | Yana | Open | 178 [STALE] |
-| Glutathione Google Search — take live | Yana | Pending brand approval | ongoing |
+| Execute Bilge's HC + Healthcare budget review (all 6 verticals) | Yana | URGENT | 1 |
+| Weekend sale conflict — IV vs Lab vs AC | Yana / Ameya / Nitish | URGENT — alignment meeting 23.06 5pm, outcomes unknown | 2 |
+| Compliance copy fix (DHA/SHA/DOH → DHA/MOH/DOH) | Nitish / Rabin | In progress | 2 |
+| HC Concept Ads — take live, separate ad sets, pause worst performers | Yana | URGENT | 2 |
+| Align with Ameya on pre-flash sale comms | Yana / Ameya | NEW | 0 |
+| KSA videos check with Dina | Yana / Dina | In progress | 0 |
+| Check HC App Install V4 | Yana | NEW — self-noted | 0 |
+| Check KSA Women's Salon Re-engagement | Yana | NEW — self-noted | 0 |
+| Triage Dina design review comments (Email Designs, 22+ comments) | Yana | NEW | 1 |
+| Verify Bilge/Yana call + IV Flash Sale Alignment outcomes (23.06) | Yana | NEW | 1 |
+| Vercel deployment check — justlife-dashboards | Yana | STALE | 5 |
+| Confirm generic + influencer creatives use same ad format | Yana / Bilge | STALE | 5 |
+| CPC increases on HC Google campaigns | Yana | Carry | 6 |
+| Wisewell Funnel Plan — Asana task + Ameya/Bilge alignment | Yana | Carry | 6 |
+| Creative asset tracker update + new HC videos live | Yana | Carry | 6 |
+| Share Sept initiatives deck | Yana | Carry | 6 |
+| Voucher discrepancy (34 vs 24) — database check | Yana | Carry | 6 |
+| Lab Test conversion crash — 0.21% CR | Yana / Bilge | CRITICAL | 59 [STALE] |
+| RBX campaign dispute | Yana | Open | 61 [STALE] |
+| Glutathione Google Search — pending brand | Yana | Awaiting brand | ongoing |
+| Arabyads S2S attribution discrepancy | Yana / Tech | Open | 285 [STALE] |
+| KSA TikTok + Snapchat App Install creatives | Yana | Pending creatives | 179 [STALE] |
 
 ## Recently Resolved
 | Item | Resolution | Date |
 |---|---|---|
 | Brand Boost | Closed by Yana | 19.06.2026 |
-| Briefs for new concept ads & UC-like ads | Closed by Yana — first cycle under the new creative request process | 19.06.2026 |
-| Trustpilot access & update | Closed by Yana — primary login transferred, Prasheela added as admin, phone number removed from account | 19.06.2026 |
-| TikTok credit line check (Bilge asked) | Confirmed $37,834.21 remaining, shared with Bilge | 19.06.2026 |
-| YT Influencer Boost Check report | Sent to Bilge via dashboard link; new creatives outperformed generic despite lower spend | 19.06.2026 |
-| Arabyads March 2026 invoice — retained users | Arabyads revised; only paying new users; Ishika paused returning-user codes | 27.04.2026 |
-| Peptide attribute names | Keep clinical/wellknown names decided — ENG fixed; AR 28.04 | 27.04.2026 |
-| Initiative Tracker | Finalized after 21d stale | 24.04.2026 |
-| Lab Test AB test | AED 50 Off (Variant A) wins; AED 60 Off paused | 24.04.2026 |
-| IV Therapy budget increase | +$200; executed | 24.04.2026 |
-| Doctor at Home + GLP-1 Google Search | Taken live | 24.04.2026 |
-| Pet HC Push Notification | Sent 24.04.2026 | 24.04.2026 |
-| Pet HC Flyer | With BD team for distribution | 24.04.2026 |
-| CRM vouchers | Paused all except Ajman + HCD30 | 24.04.2026 |
-| Peptide Arabic Translations | Peptides went live 23.04 — one day early | 23.04.2026 |
+| Briefs for new concept ads & UC-like ads | Closed — first cycle under new creative request process | 19.06.2026 |
+| Trustpilot access & update | Closed — primary login transferred, Prasheela added as admin | 19.06.2026 |
+| TikTok credit line check | Confirmed $37,834.21 remaining | 19.06.2026 |
+| Arabyads March 2026 invoice | Only paying new users; returning-user codes paused | 27.04.2026 |
 
 ## Active Experiments
 | Experiment | Channel | Status | Signal |
 |---|---|---|---|
-| Funnel vs LP Captions AI (Jeddah) | Meta | [STALE] — no signal since 29.05.2025 | Results never confirmed |
-| HC Concept V1 vs V2C | Meta | SUPERSEDED 19.06.2026 — Bilge ended concept A/B testing in favor of multiple-adset CBO model for all verticals | 19.06.2026 |
-| IV Therapy Meta AB test | Meta | [STALE] — no signal since 24.04.2026 | — |
-| Multiple-adset CBO model (all verticals) | Meta | NEW — replaces concept testing | 19.06.2026 |
+| Multiple-adset CBO model (all verticals) | Meta | NEW STANDARD — replaces concept testing | 19.06.2026 |
+| HC Concept V1 vs V2C | Meta | SUPERSEDED 19.06.2026 | — |
+| IV Therapy Meta AB test | Meta | STALE — no signal since 24.04.2026 | — |
+| Funnel vs LP Captions AI (Jeddah) | Meta | STALE — no signal since 29.05.2025 | — |
 
 ## People Watch List
 | Person | Open Item | Urgency |
 |---|---|---|
-| Sabhyata | PG Thank You banner broken again — investigate + fix | Critical |
-| Sabhyata | Pet HC emailer — schedule Mon or Wed (creatives received) | High |
-| Bilge | Lab Test conversion crash — investigate sessions + entry points | Critical |
-| Bilge | KSA Monday review — if not done 27.04, action 28.04 | High |
-| Pallavi / Gunes | WA & PN May review (Lab Test + IV Therapy) | High |
-| Rabin / Dina | Peptide AR attribute names — fix 28.04 | High |
-| Nitish | Peptide pricing/nutrients verification post-launch | Medium |
-| Brand Team | Glutathione ad copy approval | Critical |
-| Bilge + Ameya | HC Concept Test technical call — V1 structure finalisation | High |
-| Rabiah | AED 10 Zonal HC booking numbers | Medium |
-| Sandeep / Healthcare | Urine Culture Test naming final decision | Medium |
+| Bilge | Budget review execution — 6 verticals pending | Critical |
+| Bilge | HC Concept Ads rollout — waiting on Yana | Critical |
+| Ameya | Pre-flash sale comms alignment | High |
+| Ameya | Wisewell Funnel Plan alignment | High |
+| Nitish / Rabin | Compliance copy fix (DHA/MOH/DOH) before sale | High |
+| Sabhyata | GLP CRM send Friday — checking Faisal conflict | High |
+| Dina | KSA videos review — pending today | Medium |
+| Dina | Email Designs review comments (22+) — needs triage | Medium |
+| Rabin | Vitamin D Drip update (done) — verify no campaign copy impact | Low |
+| Rabiah | Dr. Marwa Abuaita bio shared — GLP-1/Wisewell content | Low |
 
 ## Key Metrics (last known)
 | Metric | Value | Channel / Context | Date |
 |---|---|---|---|
 | Lab Test conversion rate | 0.21% | 26.04.2026 — CRASH (avg 0.90% 22–26 Apr) | 26.04.2026 |
-| Lab at Home sessions | 2× usual volume | 26.04.2026 — source unknown | 26.04.2026 |
-| Pet HC conversion rate | 1.5% | Continuously declining — discount + funnel issue | 24.04.2026 |
+| Lab Test Meta funnel-abandonment retargeting | 93x ROAS | Very good CPB — budget to 3x (Bilge, 23.06) | 23.06.2026 |
+| Doctor at Home Google Search CTR | 21% | Spiked high — decrease CPC 20%, +50% budget (Bilge, 23.06) | 23.06.2026 |
+| Pet HC conversion rate | 1.5% | Continuously declining | 24.04.2026 |
 | Meta CPA — Home Cleaning (HC10) | $96.25 | UAE — current active deal | Aug 2025 |
-| Month-2 Booking Rate — HC10 | 25% | Cohort retention | Aug 2025 |
-| Doctor Consultation — DXB/SHJ/AJM | AED 249 | Live price | Oct 2025 |
-| Cancer Screening — AUH | AED 499 | Live price | Oct 2025 |
-| Pet Relocation | AED 3,749 | Live price in all Google ads | Apr 2026 |
-| Lab Test / Vitamin D / Diabetic | AED 49 | Meta campaign price | Apr 2026 |
-| KSA PMax Budget — Riyadh + Jeddah | $125/day each | Live | Oct 2025 |
 | Healthcare daily budget target | ~$1,400/day | After +$400 increase | 24.04.2026 |
-| HC Concept Variant A CPA | ~$79 | Apr 7-22; ROAS 3.5+ | 24.04.2026 |
-| HC Concept Test — V1 Meta incremental CPI | $130.70 | V1 wins vs V2 ($309.68) | 20.04.2026 |
-| Lab Test AB Test — AED 50 Off wins | Better CTR, conv rate, dashboard CPA | vs AED 60 Off | 24.04.2026 |
-| Pet Grooming — Sunday bookings | 233 total / 206 completed | 4.83 rating, 82 ratings | 20.04.2026 |
+| TikTok credit line remaining | $37,834.21 | Confirmed | 19.06.2026 |

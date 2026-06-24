@@ -1,5 +1,10 @@
 # Decisions Log
 
+## 24.06.2026
+
+**CRM send sequence — Wisewell today, GLP on Friday**
+Aligned with Sabhyata: Wisewell PN goes out 24.06; GLP CRM send on Friday (Sabhyata checking with Faisal re: SV journey conflict on the same day). Source: DM Yana/Sabhyata.
+
 ## 23.06.2026
 
 **Full HC + Healthcare budget review and reallocation**
