@@ -2,6 +2,24 @@
 
 ## 24.06.2026
 
+**JustLife x Google Bi-Weekly — UAC app campaigns: add AC + Pest Control ad groups**
+Google (Karim Saeed) recommended adding AC and Pest Control ad groups to existing UAC campaigns — no new creative needed, use existing PMAX/DemandGen assets. Satpal to action. Source: JustLife x Google Bi-Weekly (Granola, 24.06.2026).
+
+**JustLife x Google Bi-Weekly — ODM/ICM iOS attribution: mid-July target**
+Product team to implement ODM/ICM in 2–3 weeks. iOS app install campaign stays OFF until live. Google will follow up before end of this week. Bilge to arrange dev call if needed. Source: JustLife x Google Bi-Weekly (Granola, 24.06.2026).
+
+**JustLife x Google Bi-Weekly — AI Max test: next vertical = Laundry or Lab Test, mid-July**
+Previous AI Max test (deep cleaning) paused — too similar to HC, cannibalization concerns. Next test: Laundry or Lab Test (based on Google's 44 recommendations). Start date: mid-July. Source: JustLife x Google Bi-Weekly (Granola, 24.06.2026).
+
+**JustLife x Google Bi-Weekly — DemandGen WhatsApp: target today, blocked by Glovebox**
+WhatsApp DemandGen campaign ready since last Thursday. Blocked by Glovebox (WhatsApp partner) payment issue. Bilge targeting same-day launch. Demand Gen coupon: September launch (better seasonality). Source: JustLife x Google Bi-Weekly (Granola, 24.06.2026).
+
+**JustLife x Google Bi-Weekly — JBP revised forecast: Bilge to share before Jul week 1**
+JBP numbers will not be met (conflict impact + summer seasonality). Bilge to share a revised forecast with Google (Karim Saeed) before Karim's OOO in Jul week 1. Source: JustLife x Google Bi-Weekly (Granola, 24.06.2026).
+
+**Lilly-branded CRM confirmed for Friday 27.06**
+Zeynep asked in group DM (Bilge/Rupa/Yana/Ameya/Sabhyata/Zeynep/Pallavi); Sabhyata confirmed Lilly-branded CRM (email + WhatsApp) goes on Friday alongside GLP. Source: Group DM, Sabhyata.
+
 **CRM send sequence — Wisewell today, GLP on Friday**
 Aligned with Sabhyata: Wisewell PN goes out 24.06; GLP CRM send on Friday (Sabhyata checking with Faisal re: SV journey conflict on the same day). Source: DM Yana/Sabhyata.
 
