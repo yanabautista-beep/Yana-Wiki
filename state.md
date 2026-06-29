@@ -10,7 +10,6 @@ generated_by: evening-briefing
 ## CRITICAL (act within 24h)
 | Item | Owner | Deadline |
 |---|---|---|
-| **IV Therapy flash sale — revert price to normal** | Yana | EOD 29.06.2026 (sale ended today) |
 | **Pause HC Meta app install campaigns (iOS + Android)** once Google campaigns start spending | Yana | Today/Tomorrow |
 | Lab Test conversion crash — 0.21% CR on 26.04, sessions double, high sessions all low-converting | Yana / Bilge | Urgent — investigate |
 | Glutathione Google Search — take live once brand approves ad copies | Yana | Awaiting brand |
@@ -62,11 +61,11 @@ generated_by: evening-briefing
 | Take HC Concept Ads live (separate ad sets, pause worst) | Yana | URGENT | 5 |
 | Compliance copy fix (DHA/SHA → DHA/MOH) — verify done | Nitish / Rabin | Verify | 6 |
 | KSA videos check with Dina | Yana / Dina | In progress | 5 |
-| Rabin M price changes — resolved? | Yana / Rabin | Unclear | 5 |
+| Rabin M price changes — resolved? | Yana / Rabin | Done | 5 |
 | Triage Dina design review comments (22+) | Yana | Open | 6 |
-| HC adapt for SHJ and AUH | Yana | Open | 0 |
+| HC adapt for SHJ and AUH — brief ✅ done | Yana | Done | 0 |
 | Increase AUH Google search spend | Yana | Open | 0 |
-| TSS | Yana | Open | 0 |
+| TSS | Yana | Done | 0 |
 | JBP revised forecast — Bilge to share with Google | Bilge | Open | 5 |
 | AI Max test — Laundry or Lab Test (mid-July) | Yana / Satpal | Open | 5 |
 | Prepare 21 new HC concept creatives in draft | Yana | Open | 0 |
@@ -84,6 +83,10 @@ generated_by: evening-briefing
 ## Recently Resolved
 | Item | Resolution | Date |
 |---|---|---|
+| IV Therapy flash sale — price reverted to normal | Done ✅ | 29.06.2026 |
+| Rabin M price changes | Resolved ✅ | 29.06.2026 |
+| HC adapt for SHJ and AUH | Brief done ✅ | 29.06.2026 |
+| TSS | Done ✅ | 29.06.2026 |
 | Wisewell prices + auto-apply voucher revision | Resolved | 29.06.2026 |
 | GLP + Lilly CRM sends — verify went out | Verified ✅ | 29.06.2026 |
 | IV Therapy WA focus campaign brief | Created ✅ | 29.06.2026 |
