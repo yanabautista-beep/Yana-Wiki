@@ -1,5 +1,13 @@
 # Decisions Log
 
+## 29.06.2026
+
+**Meta → Google app install migration — all verticals this week**
+Bilge directive (Group DM, 29.06 9am): "Last possible good performing week before end of summer — move all Meta app install campaigns to Google today/tomorrow at worst." Decision: move all pure app install budgets from Meta to Google UAC; keep app+web conversion campaigns on Meta for now. Yana actioned HC immediately (iOS Install-V4 $3,200 + Android $500 created in Google; Meta pause pending once Google confirms spending). Eda actioning Salon & Spa (Women's Salon, Men's Spa, Men's Salon). Source: Group DM Bilge/Yana/Satpal/Eda/Ishika, 29.06.2026.
+
+**50COZY voucher — 50% off HC for Google Paid (Dubai)**
+New HC deal voucher created 29.06.26 for Google Paid channel, UAE/Dubai. Source: Drive voucher naming tool, 29.06.2026.
+
 ## 24.06.2026
 
 **JustLife x Google Bi-Weekly — UAC app campaigns: add AC + Pest Control ad groups**
