@@ -1,5 +1,13 @@
 # Decisions Log
 
+## 30.06.2026
+
+**Restart AUH Google Search campaign**
+Yana proposed restarting the HC Abu Dhabi Google Search campaign (Ameya wanted increased AUH spend). Bilge approved: "yes let's do that please." Source: DM Bilge/Yana, 30.06.2026.
+
+**Add Wisewell/Yswal section to Thursday emailer**
+New section to be added below the existing Lab, Vet, and Doctor segments in the Thursday emailer. Deal noted as AED 280 off in this meeting — conflicts with AED 200 Off confirmed separately with Sabhyata same day; needs reconciling. Yana to confirm Dubai-wide targeting with Shivan before dev finalizes. Source: Granola, "Thursday emailer — banner redesign, wise section, and deal update," 30.06.2026.
+
 ## 29.06.2026
 
 **Meta → Google app install migration — all verticals this week**
