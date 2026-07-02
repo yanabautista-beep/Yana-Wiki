@@ -32,8 +32,8 @@ generated_by: evening-briefing
 ## HIGH
 | Item | Owner |
 |---|---|
-| Boost Doctor at Home reel on Meta social boost (#social-boost, Resethail request 01.07) | Yana |
 | Share affiliate marketing guesstimate (July 2026) — Jose Rafael waiting, Yana committed | Yana |
+| Follow up with Bilge + Ameya on YouTube brand lift studies (separate HC campaigns) | Yana / Bilge |
 | Increase AUH Google search spend (supply increasing, bookings up, utilization stable) | Yana |
 | Move all remaining Meta app install campaigns to Google this week (Bilge directive) | Yana / Eda / Team |
 | Prepare 21 new HC concept creatives in draft — swap in once Bilge sends pause list | Yana |
@@ -66,8 +66,9 @@ generated_by: evening-briefing
 | Send Q3 KPI deadline reminder to teams | Yana | URGENT — Day 1 of window | 0 |
 | Confirm Yswal/Wisewell emailer targeting with Shivan | Yana | Open | 1 |
 | Review/appeal rejected Facebook ad (politics policy) | Yana | Open | 1 |
-| Boost Doctor at Home reel (#social-boost) | Yana | NEW | 0 |
 | Share affiliate guesstimate July 2026 (Jose Rafael) | Yana | NEW — committed | 0 |
+| Follow up with Bilge + Ameya on YouTube brand lift (HC campaigns) | Yana / Bilge | Open [STALE] | 3 |
+| Compliance copy fix — verify DHA/SHA/DOH → DHA/MOH/DOH is done | Nitish / Rabin | Open [STALE] | 9 |
 | Pause HC Meta app install (iOS + Android) once Google spending | Yana | Pending | 2 |
 | Chase Bilge: HC ad pause list + pause TRUST65 | Yana | Open | 2 |
 | Take HC Concept Ads live (separate ad sets, pause worst) | Yana | URGENT [STALE] | 7 |
@@ -93,6 +94,7 @@ generated_by: evening-briefing
 ## Recently Resolved
 | Item | Resolution | Date |
 |---|---|---|
+| Boost Doctor at Home reel (#social-boost) | Done ✅ | 01.07.2026 |
 | iOS Google app install campaign — budget hit | Paused at $3,142.91/$3,200 ✅ | 01.07.2026 |
 | Flash sale performance shared with Nitish | Done ✅ | 01.07.2026 |
 | Brand Boost video shared with Nitish | Done ✅ | 01.07.2026 |
@@ -127,7 +129,6 @@ generated_by: evening-briefing
 | Ameya | Healthcare recurring call invite — not sent despite reminders | Medium |
 | Satpal | UAC app campaigns — add AC + Pest Control ad groups (7 days stale) | Medium |
 | Jose Rafael | Affiliate guesstimate July 2026 — Yana committed | Medium |
-| Resethail | Doctor at Home reel boost (#social-boost) — requested 01.07 | Low |
 
 ## Key Metrics (last known)
 | Metric | Value | Channel / Context | Date |
