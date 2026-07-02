@@ -10,8 +10,7 @@ generated_by: evening-briefing
 ## CRITICAL (act within 24h)
 | Item | Owner | Deadline |
 |---|---|---|
-| **Google Ads account SUSPENDED (justmop Main, 153-091-2876)** — 0 impressions, $0 spend account-wide since ~5:58pm 01.07. All Google campaigns affected. Check Admin > Policy Center. | Yana / Bilge | Immediately |
-| **Fix IV Glutathione Google ads disapproval** (Substances policy, under appeal) — may be linked to account suspension | Yana | Urgent |
+| **Fix IV Glutathione Google ads disapproval** (Substances policy, under appeal) | Yana | Urgent |
 | **Reconcile Wisewell discount: AED 200 (Slack/Sabhyata) vs AED 280 (Thursday emailer meeting)** — before emailer goes out | Yana | Before Thursday emailer |
 | Pause HC Meta app install campaigns (iOS + Android) once Google campaigns start spending | Yana | Pending |
 | Lab Test conversion crash — 0.21% CR on 26.04, high sessions all low-converting | Yana / Bilge | Urgent — investigate |
@@ -48,11 +47,11 @@ generated_by: evening-briefing
 ## Workstream Status
 | Workstream | Status | Last Signal | Watch |
 |---|---|---|---|
-| Paid Media | CRITICAL — Google Ads account (justmop Main) suspended since ~5:58pm 01.07; 0 impressions. iOS app install campaign paused at budget ($3,142.91/$3,200). AUH Google Search restart approved but not actioned. Meta→Google migration ongoing. | 01.07.2026 | Watch: account suspension; AUH restart; Meta pause timing |
-| Healthcare Vertical | Active — HC Concept Ads still not live (7 days). IV Glutathione ads disapproved (under appeal, possibly linked to account suspension). Flash sale performance shared with Nitish for 2PM meeting. | 01.07.2026 | Watch: account suspension; concept ads rollout; disapproval fix |
+| Paid Media | Active — iOS app install campaign paused at budget ($3,142.91/$3,200). AUH Google Search restart approved but not actioned. Meta→Google migration ongoing. | 01.07.2026 | Watch: AUH restart; Meta pause timing |
+| Healthcare Vertical | Active — HC Concept Ads still not live (7 days). IV Glutathione ads disapproved (under appeal). Flash sale performance shared with Nitish for 2PM meeting. | 01.07.2026 | Watch: concept ads rollout; disapproval fix |
 | CRM & Email | Active — Wisewell/Yswal section being added to Thursday emailer; discount conflict (AED 200 vs 280) needs resolving before send. HC email cropping issue flagged by Rupa in #crmbrand today. | 01.07.2026 | Watch: Wisewell discount reconciliation; Shivan targeting confirmation |
 | KSA Expansion | Active — KSA Women's Salon video brief done. Dina off this week — no design movement expected. | 30.06.2026 | Watch: Dina's return |
-| Google (Partner) | CRITICAL — Account suspended. ODM/ICM mid-July target pending. DemandGen WhatsApp unverified (7 days stale). JBP revised forecast pending. | 01.07.2026 | Watch: account suspension; DemandGen WhatsApp; JBP forecast |
+| Google (Partner) | Active — ODM/ICM mid-July target pending. DemandGen WhatsApp unverified (7 days stale). JBP revised forecast pending. | 01.07.2026 | Watch: DemandGen WhatsApp; JBP forecast |
 | Affiliate | Active — Arabyads March invoice RESOLVED; RBX dispute open. July guesstimate requested by Jose Rafael. | 01.07.2026 | Watch: RBX dispute; affiliate guesstimate |
 | App Marketing | Active — Peptides banner blocked on Nitish ops fix. HC Google app install campaign paused at budget. | 01.07.2026 | Watch: Peptides banner; Google account suspension impact |
 | Analytics & Reporting | Active — Conversion crash investigation urgent | 24.06.2026 | Watch: Lab Test CR crash |
@@ -61,7 +60,6 @@ generated_by: evening-briefing
 ## Open Items
 | Item | Owner | Status | Days Open |
 |---|---|---|---|
-| Google Ads account SUSPENDED (justmop Main) | Yana / Bilge | CRITICAL — NEW | 0 |
 | Fix IV Glutathione Google ads disapproval | Yana | CRITICAL | 1 |
 | Reconcile Wisewell discount: AED 200 vs AED 280 | Yana | CRITICAL | 1 |
 | Restart AUH Google Search campaign | Yana | Approved, not actioned | 1 |
@@ -118,7 +116,6 @@ generated_by: evening-briefing
 ## People Watch List
 | Person | Open Item | Urgency |
 |---|---|---|
-| Bilge | Google Ads account suspension — needs awareness + action | Critical |
 | Bilge | Full HC ad pause list (iOS + Android + pre-eng + funnel) — said he'd send Wed 25.06, still pending | Critical |
 | Bilge | HC Concept Ads rollout — waiting on Yana | Critical |
 | Bilge | JBP revised forecast — share with Google before Jul week 1 | High |
@@ -136,7 +133,6 @@ generated_by: evening-briefing
 | Metric | Value | Channel / Context | Date |
 |---|---|---|---|
 | HC Google iOS app install — budget hit | $3,142.91 of $3,200 — paused | Google UAC | 01.07.2026 |
-| Google Ads account delivery | 0 impressions, $0 spend (SUSPENDED) | justmop Main, 153-091-2876 | 01.07.2026 |
 | Lab Test conversion rate | 0.21% | 26.04.2026 — CRASH (avg 0.90% 22–26 Apr) | 26.04.2026 |
 | Lab Test Meta funnel-abandonment retargeting | 93x ROAS | Very good CPB — budget to 3x | 23.06.2026 |
 | Doctor at Home Google Search CTR | 21% | Spiked high — decrease CPC 20%, +50% budget | 23.06.2026 |
