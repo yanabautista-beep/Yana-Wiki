@@ -1,5 +1,5 @@
 ---
-last_updated: 06.07.2026
+last_updated: 07.07.2026
 generated_by: evening-briefing
 ---
 # Wiki State Snapshot — Justlife Digital Marketing
@@ -19,7 +19,8 @@ generated_by: evening-briefing
 ## URGENT
 | Item | Owner |
 |---|---|
-| Send Q3 KPI deadline reminder to all teams — window is 1–9 Jul, today is day 6 | Yana |
+| Review initiative tracker (justlife-capacity-planning.vercel.app/#initiatives) and add Asana tasks for all assigned items — Ameya, Monday lock-schedule meeting (today Jul 7) | Yana |
+| Send Q3 KPI deadline reminder to all teams — window is 1–9 Jul, today is day 7 | Yana |
 | Confirm Yswal/Wisewell emailer targeting with Shivan (Dubai-wide vs segment) | Yana |
 | Chase Bilge for full HC ad pause list (iOS, Android, pre-eng, funnel) + pause TRUST65 | Yana |
 | Take HC Concept Ads live — separate ad sets, pause worst performers (12 days open, Bilge waiting) | Yana |
@@ -73,7 +74,8 @@ generated_by: evening-briefing
 |---|---|---|---|
 | Fix IV Glutathione Google ads disapproval (8 ads) | Yana | CRITICAL | 6 |
 | Reconcile Wisewell discount: AED 200 vs AED 280 | Yana | CRITICAL | 6 |
-| Send Q3 KPI deadline reminder to teams | Yana | URGENT — Day 6 of window | 5 |
+| Review initiative tracker — add Asana tasks for all assigned items (Monday lock-schedule, Ameya) | Yana | URGENT — today | 4 |
+| Send Q3 KPI deadline reminder to teams | Yana | URGENT — Day 7 of window | 6 |
 | Confirm Yswal/Wisewell emailer targeting with Shivan | Yana | Open | 6 |
 | Review/appeal rejected Facebook ad (politics policy) | Yana | Open | 6 |
 | Pull Flash Sale WA booking reference IDs (both flash sales, for Nitish) | Yana | NEW — due Tue/Wed | 0 |
