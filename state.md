@@ -1,5 +1,5 @@
 ---
-last_updated: 07.07.2026 (evening)
+last_updated: 08.07.2026
 generated_by: evening-briefing
 ---
 # Wiki State Snapshot — Justlife Digital Marketing
@@ -19,7 +19,7 @@ generated_by: evening-briefing
 ## URGENT
 | Item | Owner |
 |---|---|
-| **Send Q3 KPI deadline reminder — window closes TOMORROW Jul 9 (day 7 of 9, window 1–9 Jul)** | Yana |
+| **Send Q3 KPI deadline reminder — window closes TOMORROW Jul 9 (day 8 of 9, window 1–9 Jul)** | Yana |
 | **Reconcile Wisewell discount (AED 200 vs 280) + confirm Yswal/Wisewell emailer targeting with Shivan — Thursday emailer Jul 9** | Yana |
 | Review initiative tracker (justlife-capacity-planning.vercel.app/#initiatives) and add Asana tasks — Ameya, Monday lock-schedule meeting | Yana |
 | Confirm Lab Test Flash Sale discount method with Nitish/Sandeep (funnel auto-apply vs voucher code) | Yana |
@@ -33,6 +33,15 @@ generated_by: evening-briefing
 ## HIGH
 | Item | Owner |
 |---|---|
+| Track daily sessions, bookings and conversion rates for GLP and HC — assess if July campaigns are effective or hold until August | Yana |
+| Increase Abu Dhabi Google search campaign by $200 | Yana |
+| Set up separate Abu Dhabi broad acquisition Meta campaign $150 — add instant creatives | Yana |
+| Increase healthcare boost budget for GLP to $150 | Yana |
+| Align with Ameya on pet healthcare vs GLP — replace pet healthcare with GLP | Yana |
+| Lab Test KWS (keyword expansion) | Yana |
+| Boost — healthcare | Yana |
+| Check lab test flash sale content | Yana |
+| IV Therapy CRM reminder — frequency cap check (Sabhyata) | Yana / Sabhyata |
 | Align with Sandeep on Free HBA1C test offer for GLP-1 consultation bookings (Ameya initiative) | Yana |
 | Lab Test Flash Sale — confirm WA carousel sizes with Sabhyata (when back); creative format confirmed ✅ | Yana / Sabhyata |
 | Homepage banner unique reach for Lilly campaign (Nov–Dec) — Zeynep Guney request; Yana provided Hero Banner LP reach; Ameya to follow up on remaining | Yana / Ameya |
@@ -85,6 +94,16 @@ generated_by: evening-briefing
 | Lab Test Flash Sale — confirm discount method (funnel vs voucher) with Nitish/Sandeep | Yana | NEW — pre-launch | 0 |
 | Lab Test Flash Sale — confirm WA carousel sizes with Sabhyata | Yana / Sabhyata | NEW — Sabhyata OOO | 0 |
 | Homepage banner unique reach (Lilly Nov–Dec campaign) — partial data shared; Ameya to follow up with Zeynep | Yana / Ameya | NEW — in progress | 0 |
+| Track daily sessions, bookings, conversion rates — GLP + HC (assess July campaign effectiveness) | Yana | NEW | 0 |
+| Increase Abu Dhabi Google search campaign by $200 | Yana | NEW | 0 |
+| Wisewell Thursday campaign — credits discussion with Sabhyata | Yana / Sabhyata | NEW — Thursday Jul 9 | 0 |
+| IV Therapy CRM reminder — frequency cap (Sabhyata) | Yana / Sabhyata | NEW | 0 |
+| Set up separate Abu Dhabi broad acquisition Meta campaign $150 + instant creatives | Yana | NEW | 0 |
+| Increase healthcare boost budget for GLP to $150 | Yana | NEW | 0 |
+| Align with Ameya on pet healthcare vs GLP — replace pet healthcare with GLP | Yana | NEW | 0 |
+| Lab Test KWS (keyword expansion) | Yana | NEW | 0 |
+| Boost — healthcare | Yana | NEW | 0 |
+| Check lab test flash sale content | Yana | NEW | 0 |
 | Align with Sandeep: Free HBA1C test for GLP-1 consultation | Yana | Open — Ameya initiative | 1 |
 | Lab test creative copy review — waiting on Pallavi | Yana / Pallavi | Open | 1 |
 | Follow up with Bilge + Ameya on YouTube brand lift | Yana / Bilge | Open [STALE] | 8 |
