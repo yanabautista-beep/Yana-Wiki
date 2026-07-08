@@ -1,5 +1,5 @@
 ---
-last_updated: 07.07.2026
+last_updated: 07.07.2026 (evening)
 generated_by: evening-briefing
 ---
 # Wiki State Snapshot — Justlife Digital Marketing
@@ -19,9 +19,10 @@ generated_by: evening-briefing
 ## URGENT
 | Item | Owner |
 |---|---|
-| Review initiative tracker (justlife-capacity-planning.vercel.app/#initiatives) and add Asana tasks for all assigned items — Ameya, Monday lock-schedule meeting (today Jul 7) | Yana |
-| Send Q3 KPI deadline reminder to all teams — window is 1–9 Jul, today is day 7 | Yana |
-| Confirm Yswal/Wisewell emailer targeting with Shivan (Dubai-wide vs segment) | Yana |
+| **Send Q3 KPI deadline reminder — window closes TOMORROW Jul 9 (day 7 of 9, window 1–9 Jul)** | Yana |
+| **Reconcile Wisewell discount (AED 200 vs 280) + confirm Yswal/Wisewell emailer targeting with Shivan — Thursday emailer Jul 9** | Yana |
+| Review initiative tracker (justlife-capacity-planning.vercel.app/#initiatives) and add Asana tasks — Ameya, Monday lock-schedule meeting | Yana |
+| Confirm Lab Test Flash Sale discount method with Nitish/Sandeep (funnel auto-apply vs voucher code) | Yana |
 | Chase Bilge for full HC ad pause list (iOS, Android, pre-eng, funnel) + pause TRUST65 | Yana |
 | Take HC Concept Ads live — separate ad sets, pause worst performers (12 days open, Bilge waiting) | Yana |
 | DemandGen WhatsApp campaign — verify went live (12 days stale) | Yana / Bilge |
@@ -33,7 +34,9 @@ generated_by: evening-briefing
 | Item | Owner |
 |---|---|
 | Align with Sandeep on Free HBA1C test offer for GLP-1 consultation bookings (Ameya initiative) | Yana |
-| Lab test creative copy — share with Pallavi for review (#performance-content-review, today) | Yana / Pallavi |
+| Lab Test Flash Sale — confirm WA carousel sizes with Sabhyata (when back); creative format confirmed ✅ | Yana / Sabhyata |
+| Homepage banner unique reach for Lilly campaign (Nov–Dec) — Zeynep Guney request; Yana provided Hero Banner LP reach; Ameya to follow up on remaining | Yana / Ameya |
+| Lab test creative copy — share with Pallavi for review (#performance-content-review) | Yana / Pallavi |
 | Follow up with Bilge + Ameya on YouTube brand lift studies (separate HC campaigns) | Yana / Bilge |
 | Increase AUH Google search spend (supply up, bookings up, utilization stable) | Yana |
 | Move all remaining Meta app install campaigns to Google (Bilge directive) | Yana / Eda / Team |
@@ -59,9 +62,9 @@ generated_by: evening-briefing
 ## Workstream Status
 | Workstream | Status | Last Signal | Watch |
 |---|---|---|---|
-| Paid Media | Active — AUH Google Search live. KSA TikTok $300/day live. KSA Salon Meta $200/day live. Meta→Google migration ongoing. Flash Sale WA booking analysis due Tue/Wed for Nitish. | 06.07.2026 | Watch: Nitish WA booking analysis; KSA Salon creative/launch |
-| Healthcare Vertical | Active — HC Concept Ads still not live (12 days). IV Glutathione disapproved (8 ads, ongoing). GLP-1 restructure in progress. Free HBA1C for GLP consultation — new initiative (Ameya/Sandeep alignment needed). Lab test creative copy shared with Pallavi today. | 06.07.2026 | Watch: concept ads rollout; disapproval fix; GLP-1 restructure; HBA1C initiative |
-| CRM & Email | Active — Wisewell/Yswal section for emailer; discount conflict (AED 200 vs 280) still unresolved. PN frequency cap fix still pending (Sabhyata). | 06.07.2026 | Watch: Wisewell discount; PN frequency cap |
+| Paid Media | Active — AUH Google Search live. KSA TikTok $300/day live. KSA Salon Meta $200/day live. Flash Sale WA booking: Bilge pulled WA view-to-booking proxy attribution (2 windows, both flash sales) — exact tracking not possible (no unique voucher used). Lab Test Flash Sale WA carousel creative confirmed. | 07.07.2026 | Watch: Lab Test Flash Sale discount method; KSA Salon creative; WA carousel sizes |
+| Healthcare Vertical | Active — HC Concept Ads still not live (13 days). IV Glutathione disapproved (8 ads, ongoing, some under appeal). GLP-1 restructure in progress — funnel drop-off content shared with Pallavi/Gunes/Sabhyata. Free HBA1C for GLP consultation — alignment with Sandeep still needed. Lab test creative copy shared with Pallavi. | 07.07.2026 | Watch: concept ads rollout; disapproval fix; GLP-1 restructure; HBA1C initiative; Lab Test Flash Sale |
+| CRM & Email | Active — Wisewell/Yswal emailer Thursday Jul 9; discount conflict (AED 200 vs 280) + targeting (Dubai-wide vs segment) both unresolved. URGENT before tomorrow. CleverTap audience creation with Eda (meeting today). | 07.07.2026 | Watch: Wisewell discount + targeting — Thursday deadline; PN frequency cap |
 | KSA Expansion | Active — TikTok $300/day live ✅. Salon Meta $200/day live ✅. KSA Salon static creatives + Meta campaign setup pending. Dina off this week. | 06.07.2026 | Watch: KSA Salon creative/launch; Dina's return |
 | Google (Partner) | Active — DemandGen WhatsApp unverified (12 days stale). JBP forecast pending. | 06.07.2026 | Watch: DemandGen WhatsApp; JBP forecast |
 | Affiliate | Active — July guesstimate delivered ✅. RBX dispute open. | 06.07.2026 | Watch: RBX dispute |
@@ -75,12 +78,15 @@ generated_by: evening-briefing
 | Fix IV Glutathione Google ads disapproval (8 ads) | Yana | CRITICAL | 6 |
 | Reconcile Wisewell discount: AED 200 vs AED 280 | Yana | CRITICAL | 6 |
 | Review initiative tracker — add Asana tasks for all assigned items (Monday lock-schedule, Ameya) | Yana | URGENT — today | 4 |
-| Send Q3 KPI deadline reminder to teams | Yana | URGENT — Day 7 of window | 6 |
+| Send Q3 KPI deadline reminder to teams | Yana | CRITICAL — Day 7, closes Jul 9 TOMORROW | 6 |
 | Confirm Yswal/Wisewell emailer targeting with Shivan | Yana | Open | 6 |
 | Review/appeal rejected Facebook ad (politics policy) | Yana | Open | 6 |
-| Pull Flash Sale WA booking reference IDs (both flash sales, for Nitish) | Yana | NEW — due Tue/Wed | 0 |
-| Align with Sandeep: Free HBA1C test for GLP-1 consultation | Yana | NEW — Ameya initiative | 0 |
-| Lab test creative copy review — waiting on Pallavi | Yana / Pallavi | Open | 0 |
+| IV Flash Sale WA booking analysis (Bilge) — proxy attribution pulled (no exact voucher tracking possible) | Bilge | Proxy data shared — excel to follow | 1 |
+| Lab Test Flash Sale — confirm discount method (funnel vs voucher) with Nitish/Sandeep | Yana | NEW — pre-launch | 0 |
+| Lab Test Flash Sale — confirm WA carousel sizes with Sabhyata | Yana / Sabhyata | NEW — Sabhyata OOO | 0 |
+| Homepage banner unique reach (Lilly Nov–Dec campaign) — partial data shared; Ameya to follow up with Zeynep | Yana / Ameya | NEW — in progress | 0 |
+| Align with Sandeep: Free HBA1C test for GLP-1 consultation | Yana | Open — Ameya initiative | 1 |
+| Lab test creative copy review — waiting on Pallavi | Yana / Pallavi | Open | 1 |
 | Follow up with Bilge + Ameya on YouTube brand lift | Yana / Bilge | Open [STALE] | 8 |
 | Compliance copy fix — verify DHA/SHA/DOH → DHA/MOH/DOH is done | Nitish / Rabin | Open [STALE] | 14 |
 | Pause HC Meta app install (iOS + Android) once Google spending | Yana | Pending | 7 |
@@ -119,6 +125,9 @@ generated_by: evening-briefing
 | Item | Resolution | Date |
 |---|---|---|
 | Check all HC campaigns for AUH targeting | Done ✅ | 03.07.2026 |
+| IV Flash Sale WA booking analysis — Bilge pulled proxy attribution (WA view-to-booking, 2 windows) | In progress — excel to follow | 07.07.2026 |
+| GLP funnel drop-off content — shared with Pallavi/Gunes (#performance-content-review) and Sabhyata (automation) | Done ✅ | 07.07.2026 |
+| Lab Test Flash Sale creative format — WA carousel confirmed, IV Therapy sizes | Confirmed ✅ | 07.07.2026 |
 | Cross-Sell from Salon for IV — Asana task added | Done ✅ | 06.07.2026 |
 | Reduce home cleaning campaigns (from app reengagement) | Done ✅ | ~06.07.2026 |
 | GLP-1: Change campaign to Web/App | Done ✅ | 03.07.2026 |
@@ -156,7 +165,8 @@ generated_by: evening-briefing
 | Bilge | JBP revised forecast — share with Google | High |
 | Bilge | DemandGen WhatsApp — verify it went live | High |
 | Nitish | Peptides app banner — ops issue "almost there," no live date yet | Medium |
-| Nitish | Flash Sale WA booking analysis — expecting by Tue/Wed Jul 7-8 | High |
+| Nitish | Confirm Lab Test Flash Sale discount method (funnel vs voucher code) | High |
+| Nitish | IV Flash Sale WA booking — Bilge to share booking data excel | Medium |
 | Shivan | Confirm Wisewell/Yswal emailer targeting (Dubai-wide vs segment) | High |
 | Sabhyata | Wisewell discount value — reconcile AED 200 vs AED 280 | High |
 | Sabhyata | Fix CRM journey PN frequency cap | Medium |
@@ -164,6 +174,7 @@ generated_by: evening-briefing
 | Sandeep | Align on Free HBA1C test for GLP consultation initiative | Medium |
 | Dina | Off this week — KSA videos + 22+ design comments on hold | Medium |
 | Ameya | Healthcare recurring call invite — not sent despite reminders | Medium |
+| Ameya | Follow up with Zeynep on remaining homepage banner unique reach data (Lilly campaign) | Low |
 | Satpal | UAC app campaigns — add AC + Pest Control ad groups (12 days stale) | Medium |
 
 ## Key Metrics (last known)
