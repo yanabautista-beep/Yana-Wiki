@@ -1,5 +1,5 @@
 ---
-last_updated: 08.07.2026
+last_updated: 10.07.2026 (evening)
 generated_by: evening-briefing
 ---
 # Wiki State Snapshot — Justlife Digital Marketing
@@ -10,7 +10,8 @@ generated_by: evening-briefing
 ## CRITICAL (act within 24h)
 | Item | Owner | Deadline |
 |---|---|---|
-| **Fix IV Glutathione Google ads disapproval** (Substances policy — 8 ads disapproved as of 06.07, under appeal) | Yana | Urgent |
+| **Lab Test Flash Sale funnel not confirmed live** — Sabhyata flagged at 11am 10.07, unresolved at EOD | Yana | Urgent — confirm tonight |
+| **Fix IV Glutathione Google ads disapproval** (Substances policy — 8 ads disapproved, Bilge on leave from Mon) | Yana/Satpal | Urgent — no owner |
 | **Reconcile Wisewell discount: AED 200 (Slack/Sabhyata) vs AED 280 (Thursday emailer meeting)** — before emailer | Yana | Before Thursday emailer |
 | Lab Test conversion crash — 0.21% CR on 26.04, high sessions all low-converting | Yana / Bilge | Urgent — investigate |
 | Glutathione Google Search — take live once brand approves ad copies | Yana | Awaiting brand |
@@ -33,14 +34,19 @@ generated_by: evening-briefing
 ## HIGH
 | Item | Owner |
 |---|---|
-| Track daily sessions, bookings and conversion rates for GLP and HC — assess if July campaigns are effective or hold until August | Yana |
-| Increase Abu Dhabi Google search campaign by $200 | Yana |
-| Set up separate Abu Dhabi broad acquisition Meta campaign $150 — add instant creatives | Yana |
-| Increase healthcare boost budget for GLP to $150 | Yana |
-| Align with Ameya on pet healthcare vs GLP — replace pet healthcare with GLP | Yana |
+| Track daily sessions, bookings and conversion rates for GLP and HC — Ameya wants daily checks to isolate budget vs WA volume | Yana |
+| Abu Dhabi Focus Meta campaign — duplicate existing, exclude AUH from original | Yana |
+| GLP-1 WA creative — needed before push goes live | Yana |
+| GLP-1 influencer podcast (doctor episode) — boost in campaign, add 2-week pause rule | Yana |
+| Peptides Google Search campaign | Yana |
+| Peptides CRM emailer — add to Thursday HC emailer | Yana |
+| Peptides app banner change — replace psychotherapy slot (after Nitish ops fix Tue 14 Jul) | Yana/Nitish |
+| IV Therapy cross-sell WA (post-IV lab test) — details TBC | Yana |
+| Colour Box healthcare campaign — align with Ameya | Yana/Ameya |
+| Wisewell WA carousel + ~3 banners | Yana/Sabhyata |
+| IV Therapy content (Women's Salon cross-sell, AED 99) — ready in Drive, review and push to campaign | Yana |
 | Lab Test KWS (keyword expansion) | Yana |
 | Boost — healthcare | Yana |
-| Check lab test flash sale content | Yana |
 | IV Therapy CRM reminder — frequency cap check (Sabhyata) | Yana / Sabhyata |
 | Align with Sandeep on Free HBA1C test offer for GLP-1 consultation bookings (Ameya initiative) | Yana |
 | Lab Test Flash Sale — confirm WA carousel sizes with Sabhyata (when back); creative format confirmed ✅ | Yana / Sabhyata |

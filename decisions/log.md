@@ -1,5 +1,19 @@
 # Decisions Log
 
+## 10.07.2026
+
+**GLP-1 campaign: WhatsApp-first strategy**
+WhatsApp launches first; Meta to follow based on WA results. Free GLP-1 consultation as trigger — doctors deliver free lab test voucher on booking completion. Source: Bilge/Yana/Ishika handover group DM, 10.07.2026.
+
+**Pet Healthcare push notification slot replaced with GLP-1**
+Per Ameya — GLP takes the pet healthcare push notification slot. Source: Yana/Sabhyata DM + tracker row 66, 10.07.2026.
+
+**Peptides app banner: replace psychotherapy slot**
+Sabhyata confirmed no psychotherapy banner currently exists — space available. Peptides to go in next week pending Nitish ops fix (expected Tuesday 14 Jul). Figma: node-id=7520-1467. Source: Yana/Sabhyata DM, 10.07.2026.
+
+**Abu Dhabi Focus Meta campaign: separate campaign**
+Duplicate existing Meta campaign, exclude AUH from original, run AUH as standalone campaign. Source: Bilge handover notes, 10.07.2026.
+
 ## 30.06.2026
 
 **Restart AUH Google Search campaign**
