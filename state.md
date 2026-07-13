@@ -1,5 +1,5 @@
 ---
-last_updated: 10.07.2026 (evening)
+last_updated: 13.07.2026 (evening)
 generated_by: evening-briefing
 ---
 # Wiki State Snapshot — Justlife Digital Marketing
@@ -10,26 +10,24 @@ generated_by: evening-briefing
 ## CRITICAL (act within 24h)
 | Item | Owner | Deadline |
 |---|---|---|
-| **Lab Test Flash Sale funnel not confirmed live** — Sabhyata flagged at 11am 10.07, unresolved at EOD | Yana | Urgent — confirm tonight |
-| **Fix IV Glutathione Google ads disapproval** (Substances policy — 8 ads disapproved, Bilge on leave from Mon) | Yana/Satpal | Urgent — no owner |
-| **Reconcile Wisewell discount: AED 200 (Slack/Sabhyata) vs AED 280 (Thursday emailer meeting)** — before emailer | Yana | Before Thursday emailer |
-| Lab Test conversion crash — 0.21% CR on 26.04, high sessions all low-converting | Yana / Bilge | Urgent — investigate |
-| Glutathione Google Search — take live once brand approves ad copies | Yana | Awaiting brand |
-| RBX campaign dispute — mark existing vs acquisition bookings | Yana | Urgent — ongoing |
+| **H1 Self-Review** — JustGrowth window opened 13.07, closes **Jul 17** | Yana | Jul 17 — on leave |
+| **Peptides app banner** — due Tuesday Jul 14, pending Nitish ops fix (Figma: node-id=7520-1467) | Nitish / Ishika | Tue Jul 14 |
+| **IV Glutathione Google ads disapproval** — 2/8 approved Jul 12, 6 still disapproved, no owner | Satpal / Ishika | Urgent |
+| **Lab Test Flash Sale funnel** — unconfirmed since Sabhyata flagged 10.07, stale 3 days | Sabhyata | Overdue |
+| Lab Test conversion crash — 0.21% CR on 26.04, unresolved | Yana / Bilge | Stale |
+| RBX campaign dispute — mark existing vs acquisition bookings | Yana | Ongoing |
 
 ## URGENT
 | Item | Owner |
 |---|---|
-| **Send Q3 KPI deadline reminder — window closes TOMORROW Jul 9 (day 8 of 9, window 1–9 Jul)** | Yana |
-| **Reconcile Wisewell discount (AED 200 vs 280) + confirm Yswal/Wisewell emailer targeting with Shivan — Thursday emailer Jul 9** | Yana |
-| Review initiative tracker (justlife-capacity-planning.vercel.app/#initiatives) and add Asana tasks — Ameya, Monday lock-schedule meeting | Yana |
-| Confirm Lab Test Flash Sale discount method with Nitish/Sandeep (funnel auto-apply vs voucher code) | Yana |
-| Chase Bilge for full HC ad pause list (iOS, Android, pre-eng, funnel) + pause TRUST65 | Yana |
-| Take HC Concept Ads live — separate ad sets, pause worst performers (12 days open, Bilge waiting) | Yana |
-| DemandGen WhatsApp campaign — verify went live (12 days stale) | Yana / Bilge |
-| Add AC + Pest Control ad groups to UAC app campaigns — Google rec (12 days stale) | Yana / Satpal |
-| Review and appeal rejected Facebook ad (Social Issues/Elections/Politics policy) | Yana |
-| Pull Flash Sale WA booking reference IDs for bundle analysis (both flash sales) — Nitish by Tue/Wed | Yana |
+| **KSA CRM segment split — execute Wed Jul 15** (Baris oversees first 2-3 runs) | Ameya / Faisal |
+| Lab test funnel — remove flash sale category (Yana → Rabin M, #healthtasks 13.07) | Rabin M |
+| **CleverTap maintenance Jul 15 04:30–05:00 AM GST** — avoid CRM sends in window | Team |
+| Post-IV lab panel upsell — create Asana task + align with Ameya on scope | Ishika |
+| Lab Focus Campaign — get WA creatives from brand, share with Sabhyata; Sunday adhoc send | Ishika |
+| 4-IV bookings campaign (email + 4 WA) — align with Ameya on budget/audience | Ishika |
+| GLP-1 WA creatives — receive from brand team, share with Sabhyata via Asana | Ishika |
+| Capacity planner tasks for week of Jul 13 — confirm Ishika has picked up from Bilge DM | Ishika |
 
 ## HIGH
 | Item | Owner |
