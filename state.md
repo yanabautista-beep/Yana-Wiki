@@ -1,5 +1,5 @@
 ---
-last_updated: 13.07.2026 (evening)
+last_updated: 28.07.2026 (vacation catch-up)
 generated_by: evening-briefing
 ---
 # Wiki State Snapshot — Justlife Digital Marketing
@@ -10,24 +10,22 @@ generated_by: evening-briefing
 ## CRITICAL (act within 24h)
 | Item | Owner | Deadline |
 |---|---|---|
-| **H1 Self-Review** — JustGrowth window opened 13.07, closes **Jul 17** | Yana | Jul 17 — on leave |
-| **Peptides app banner** — due Tuesday Jul 14, pending Nitish ops fix (Figma: node-id=7520-1467) | Nitish / Ishika | Tue Jul 14 |
-| **IV Glutathione Google ads disapproval** — 2/8 approved Jul 12, 6 still disapproved, no owner | Satpal / Ishika | Urgent |
-| **Lab Test Flash Sale funnel** — unconfirmed since Sabhyata flagged 10.07, stale 3 days | Sabhyata | Overdue |
+| **Log Q3 KPIs to JustGrowth** — overdue since Mon Jul 20. Weightages: 25% each, 10% max cap. Sheet: 18OlIhkzOW3q3NacfyloRESrIIPmuXo8ns8w9XRf2qXY | Yana | Today |
+| **Lab Test – 4 Sales Asana task** (1216448312340797) — Bilge: "we need more details clarity on this one" | Yana | Today |
+| **IV retargeting campaign** — Ameya: add more creatives (Jul 24, #ameya-bilge-yana) | Yana | Today |
+| **Design comments** — Dina (WA Campaigns: wrong copy), Pallavi (Funnel Images + WA), Rupa (Facebook Ads) | Yana | Today |
+| **IV Glutathione Google ads disapproval** — 6/8 still disapproved, no update since Jul 13, no owner | Yana | Urgent |
+| Lab Test Flash Sale funnel removal — unconfirmed since Yana → Rabin M on 13.07 | Rabin M | Check in |
 | Lab Test conversion crash — 0.21% CR on 26.04, unresolved | Yana / Bilge | Stale |
-| RBX campaign dispute — mark existing vs acquisition bookings | Yana | Ongoing |
+| RBX campaign dispute | Yana | Ongoing |
 
 ## URGENT
 | Item | Owner |
 |---|---|
-| **KSA CRM segment split — execute Wed Jul 15** (Baris oversees first 2-3 runs) | Ameya / Faisal |
-| Lab test funnel — remove flash sale category (Yana → Rabin M, #healthtasks 13.07) | Rabin M |
-| **CleverTap maintenance Jul 15 04:30–05:00 AM GST** — avoid CRM sends in window | Team |
-| Post-IV lab panel upsell — create Asana task + align with Ameya on scope | Ishika |
-| Lab Focus Campaign — get WA creatives from brand, share with Sabhyata; Sunday adhoc send | Ishika |
-| 4-IV bookings campaign (email + 4 WA) — align with Ameya on budget/audience | Ishika |
-| GLP-1 WA creatives — receive from brand team, share with Sabhyata via Asana | Ishika |
-| Capacity planner tasks for week of Jul 13 — confirm Ishika has picked up from Bilge DM | Ishika |
+| **KSA content: Dina sign-off required before any content goes live** — formal Bilge directive (Jul 14) | Yana |
+| **Flash sale CRM access** — Nitish needs Service Attribute Group access to update service details. Rabin didn't share. Tagged Rupa/Pallavi (Jul 27) | Rupa / Pallavi |
+| TikTok credit line — Slackbot reminder fired Jul 17, no visible follow-up | Team |
+| IV educational content idea (Ameya, Jul 15) — educational awareness ads for IV, possibly Peptides — no decision yet | Yana / Ameya |
 
 ## HIGH
 | Item | Owner |

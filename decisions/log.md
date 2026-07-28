@@ -1,5 +1,20 @@
 # Decisions Log
 
+## 20.07.2026
+
+**Q3 KPI weightages: 25% each, 10% max cap**
+Equal weightages confirmed for all Q3 KPIs. Default 10% max cap per KPI. Confirmed by Bilge via Satpal in group DM (Bilge/Yana/Satpal/Eda/Ishika). Min/max targets added to sheet by Bilge. Source: Group DM, 20.07.2026.
+
+## 16.07.2026
+
+**Capacity planner: no self-adding**
+New process: team members no longer add tasks directly to the capacity planner. When Asana tasks are ready, notify Bilge with task details + desired deadline and he adds to the tool. Source: Bilge group DM (Bilge/Yana/Satpal/Eda/Ishika), 16.07.2026.
+
+## 14.07.2026
+
+**KSA content: Dina approval required before any content goes live**
+Following an incident where UAE WA campaign content was repurposed for KSA without approval (wrong Arabic dialect, wrong city — said Jeddah, service is Riyadh-only), Bilge directed Yana: no content goes live before Dina's approval. Dina also requested: no repurposing UAE content for KSA without checking with her first. Source: Group DM (Bilge/Rupa/Yana/Dina/Ameya/Pallavi), 14.07.2026.
+
 ## 10.07.2026
 
 **GLP-1 campaign: WhatsApp-first strategy**
