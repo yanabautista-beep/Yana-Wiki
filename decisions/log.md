@@ -1,5 +1,16 @@
 # Decisions Log
 
+## 28.07.2026
+
+**Real CPA/LTV as primary healthcare metric**
+First-ever booking for a vertical is the primary acquisition metric, regardless of whether the user is internal (existing customer) or external (new). Rolling 6-month LTV cohort tracked weekly. Old metric (external CPA by category) deprecated. IV real CPA/LTV: 0.76; Lab: 0.39 — both have room to double spend. Source: Healthcare Daily meeting (Bilge, Ishika, Yana), 28.07.2026.
+
+**Weekly budget optimization summary — new standing process**
+After each weekly budget review with real CAC/LTV targets, share: (1) summary of changes made, (2) WoW % impact on marketing costs, (3) forecasted new daily budget — sent to Bilge + Ameya. Source: Bilge group DM directive, 28.07.2026.
+
+**Peptides: no deep discounting — frame consultation at AED 299 + voucher**
+Peptides are premium. Strategy: price consultation at AED 299, apply funnel voucher to discount it — do not lead with a low headline price. Avoids building discount expectations on a high-value niche service. Two ad angles to test: consultation-led vs. direct product buy. Source: Healthcare Marketing × BD meeting (Bilge, Ameya, Yana), 28.07.2026.
+
 ## 20.07.2026
 
 **Q3 KPI weightages: 25% each, 10% max cap**
