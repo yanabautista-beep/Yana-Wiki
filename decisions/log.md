@@ -1,5 +1,19 @@
 # Decisions Log
 
+## 24.08.2026
+
+**Google UAC: app install campaigns preferred over conversion campaigns**
+Bilge compared Google app install vs. app conversion campaigns — installs performing significantly better on CPI and CPB. Direction: when activating future Google UAC campaigns, use app install objective, not conversion. Source: Bilge DM, 18.08.2026 (captured in briefing 24.08.2026).
+
+**Healthcare budget cuts: Lab -20%, IV -35%**
+Bilge directed budget cuts on 18.08.2026: Lab Tests -20% ($94 cut, new daily $377), IV Therapy -35% ($97 cut, new daily $179). Applied same day. Source: Bilge DM directive, 18.08.2026.
+
+**Peptides funnel separation**
+Peptides removed from IV Therapy funnel (Ravi ticket). Peptides now on a separate dedicated funnel. Rationale: Meta flagged the peptides landing page (chemical names), also blocking IV Search campaigns. Existing peptide/GLP-1 bookers to be notified via WA/PN. Source: Healthcare Taskforce Aug 18.
+
+**Wisewell BTS offer: 2 months free (not 1)**
+BTS campaign runs until Sep 1. All funnel copy referencing "1st month free" or "1st month complimentary" must be updated to "2 months free." Sheelam confirmed this in DM Aug 21. Rabin to action. Source: HC Taskforce Aug 18 + Sheelam DM Aug 21.
+
 ## 28.07.2026
 
 **Real CPA/LTV as primary healthcare metric**

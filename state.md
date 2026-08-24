@@ -1,5 +1,5 @@
 ---
-last_updated: 28.07.2026
+last_updated: 24.08.2026
 generated_by: evening-briefing
 ---
 # Wiki State Snapshot — Justlife Digital Marketing
@@ -10,145 +10,133 @@ generated_by: evening-briefing
 ## CRITICAL (act within 24h)
 | Item | Owner | Deadline |
 |---|---|---|
-| **Log Q3 KPIs to JustGrowth** — overdue since Mon Jul 20 (8 days). Weightages: 25% each, 10% max cap. Sheet: 18OlIhkzOW3q3NacfyloRESrIIPmuXo8ns8w9XRf2qXY | Yana | Overdue |
-| **IV Glutathione Google ads disapproval** — 6/8 ads disapproved, 15+ days stale, no owner | Yana | Urgent |
-| **TikTok credit line check** — Slackbot reminder fired Jul 17, 11 days no follow-up | Team | Urgent |
-| **Lab Test – 4 Sales Asana task** (1216448312340797) — Bilge: "we need more details clarity on this one" | Yana | Stale 4d |
-| Flash sale CRM access for Nitish — Rabin didn't share access; Rupa + Pallavi tagged Jul 27 | Rupa/Pallavi | Open |
+| **Reply to Bilge — 3 capacity planner tasks** (flu vaccine search ad copy refresh, subscription app banner, flu season PN + broad awareness) — sent this morning, unanswered | Yana | Today |
+| **IV/Lab YoY trend analysis** — Swapnil assigned in taskforce MoM Aug 19: "study next 8-10 weeks trend last year for IV and lab, new and repeat. Identify if any cohort needs a step jump in discounting. Decide by Wednesday." | Yana | Wed Aug 26 |
+| **Log Q3 KPIs to JustGrowth** — overdue since Jul 20 (35+ days). Weightages: 25% each, 10% max cap | Yana | CRITICAL STALE |
+| **IV Glutathione Google ads disapproval** — 6/8 ads disapproved, 49+ days stale, no owner | Yana | CRITICAL STALE |
 
 ## URGENT
 | Item | Owner |
 |---|---|
-| **KSA content: Dina sign-off required before any content goes live** — formal Bilge directive (Jul 14) | Yana |
-| **Pet healthcare app banners** — need to update with AED 250 MOV. Funnel vouchers: update via CRM. | Yana |
-| **YouTube brand ad copy** — "10 years 10 million bookings" outdated. Check with Rupa on replacement. | Yana → Rupa |
-| **Social boost — Facebook page access** — influencer content can't be boosted without it. Yana to check. | Yana |
-| IV educational content idea (Ameya, Jul 15) — educational awareness ads for IV, possibly Peptides — no decision yet | Yana/Ameya |
+| **HC budget +$500 with higher Abu Dhabi allocation** — Ameya asked Aug 21 in #ameya-bilge-yana, Yana said "let me check" — unconfirmed actioned | Yana |
+| **Lab test app banner: 50% off up to AED 60, MOV AED 149** — agreed with Nitish Aug 21 in #healthtasks | Yana |
+| **Update Wisewell funnel copy: "1st month free" → "2 months free" until Sep 1** — Sheelam asked Aug 21, Yana committed via Rabin — needs follow-up | Yana/Rabin |
+| **Peptides PN brand approval** — sent to #performance-content-review Aug 19, waiting on Pallavi/Rabiah | Pallavi/Rabiah |
+| **Pause all Lilly ads on paid** (Aug 18) | Yana |
+| **Launch Peptides Google Search campaign** — peptides removed from IV funnel, Ameya greenlit | Yana |
+| **Healthcare created-bookings recovery** — Ameya + Swapnil flagged Aug 23: bookings not recovering while all other verticals trend back. Short-term actions meeting being set up. | Yana/Ameya |
+| **Wisewell BTS CRM** — 2 months free, start next week (Aug 18 HC Taskforce) | Yana |
 
-## HIGH — New from Today
+## HIGH — Active
 | Item | Owner |
 |---|---|
-| Launch Google App Install for Lab — AED 300 iOS / AED 100 Android; load all YouTube + influencer + static creatives | Yana |
-| Restart Search campaign for IV Therapy (~20% budget increase) | Yana |
-| IV concept ads — no concepts exist; set up recurring monthly task via capacity planner (submit to Bilge with details + deadline) | Yana → Bilge |
-| WA Lab Test — 4 carousel creatives; align with Prabhan; remind Prabhan to mark tasks done in Asana on handover | Yana |
-| IV cross-sell to Women's Salon — confirm if the send was executed (content received, execution unclear) | Yana |
-| Pet healthcare Amazon ads — set up account + explore ads (no seller account needed). Yana: pet HC; Bill Gay: pet grooming. | Yana |
-| Peptides ad creatives — build consultation-led + direct-buy angles; use best-selling peptides; frame consult at AED 299 + voucher | Yana |
-| Lab layout experiment — move best sellers above Offers 99; monitor conversion for 1 week | Yana |
-| Google ad copies (Peptides + IV) — awaiting review from Pallavi in #performance-content-review | Pallavi |
-| Weekly budget optimization summary — after each weekly review: changes + WoW % impact + forecasted daily budget → send to Bilge + Ameya | Yana |
-
-## HIGH — Carry
-| Item | Owner |
-|---|---|
-| IV retargeting campaign — add more creatives (Ameya, Jul 24) | Yana/Ishika |
-| Design comments — Dina (WA Campaigns), Pallavi (Funnel Images + WA), Rupa (Facebook Ads) via Figma | Yana |
-| Abu Dhabi Focus Meta campaign — duplicate existing, exclude AUH from original | Yana |
-| GLP-1 WA creative — needed before push goes live | Yana |
-| GLP-1 influencer podcast (doctor episode) — boost in campaign, add 2-week pause rule | Yana |
-| Peptides Google Search campaign | Yana |
-| Peptides CRM emailer — add to Thursday HC emailer | Yana |
-| Peptides app banner change — replace psychotherapy slot (blocked on Nitish ops fix) | Yana/Nitish |
-| IV Therapy content (Women's Salon cross-sell, AED 99) — ready in Drive, review and push to campaign | Yana |
-| Lab Test KWS (keyword expansion) | Yana |
-| Boost — healthcare | Yana |
-| IV Therapy CRM reminder — frequency cap check (Sabhyata) | Yana/Sabhyata |
-| GLP-1: bottom-funnel / discount-focused ads launching this week (shift from awareness angle) | Yana |
-| Lab test creative copy — share with Pallavi for review (#performance-content-review) | Yana/Pallavi |
-| Follow up with Bilge + Ameya on YouTube brand lift studies (separate HC campaigns) | Yana/Bilge |
-| Move all remaining Meta app install campaigns to Google (Bilge directive) | Yana/Eda/Team |
-| Prepare 21 new HC concept creatives in draft — swap in once Bilge sends pause list | Yana |
-| Set up spend alerts for all healthcare verticals | Yana |
-| GLP Concept Ads — create brief | Yana |
-| Influencer content for GLP-1 for paid (align with Pallavi) | Yana |
-| Add funnel visitors audience to GLP-1 retargeting campaign | Yana |
-| Add existing lab creatives to Meta retargeting campaign | Yana |
-| KSA Salon Creatives — static assets | Yana |
-| KSA Salon Meta Campaign — set up and launch | Yana |
+| Flu vaccine search campaign + ad copy refresh → log in capacity planner (Bilge, Aug 24) | Yana |
+| Subscription app banner → log in capacity planner (Bilge, Aug 24) | Yana |
+| Flu season PN + broad awareness to all active users (Bilge, Aug 24) | Yana |
+| Check with Zia on instant availability display logic + BTS instant ads alignment (Aug 18 HC-TF) | Yana |
+| Launch subscription app homepage panel (Aug 18 HC-TF) — status unconfirmed | Yana |
+| Increase Abu Dhabi acquisition discounts + separate campaign budget (align Meli) | Yana |
+| Arrange partner meetings for Abu Dhabi local insights (with Ameya) | Yana |
+| Add utilization column to city-level report | Yana |
+| Send PN/WhatsApp to IV therapy users who booked peptides — new separate funnel | Yana |
+| Send WhatsApp to GLP-1 users (~20 active) — inform of new peptides funnel | Yana |
+| Wisewell monthly CRM — once a month, timed to salary week | Yana |
+| Flu vaccine PN week of Aug 24 — confirm stock version first | Yana |
+| Check competitor Meta CPMs + search auction insights — fortnightly cadence | Yana |
+| App banner clicks — identify session source (paid vs. organic vs. app) | Yana |
+| WhatsApp cohort test for lab (discount-led vs. reminder-led, vitamin D) | Yana |
+| Get authorization for 2 reels from Akshita + Red | Yana |
+| Check with Alican (Product) on Wisewell CRM feature (Rabin flagged) | Yana |
+| Subscription bi-weekly focus campaign — sent today (Sabhyata, confirmed with Ameya) ✓ | Sabhyata |
 
 ## Workstream Status
 | Workstream | Status | Last Signal | Watch |
 |---|---|---|---|
-| Paid Media — Healthcare | Active — IV 74% GMV target, Lab 77% GMV target. Real CPA/LTV: IV 0.76, Lab 0.39. Doubling spend to ~AED 100k in August. Google App Install for Lab launching, IV Search restarting. Peptides experiment: $10–15k budget, two ad angles. GLP-1 shifting to bottom-funnel ads. | 28.07.2026 | IV concept ads; Lab App Install launch; peptides experiment |
-| Paid Media — Pet Healthcare | Active — AED 250 MOV added to all pet healthcare discounts ✅ (Sabhyata). App banners need update. Amazon ads exploration in progress. | 28.07.2026 | App banner update; Amazon setup |
-| Paid Media — General | Active — KSA TikTok $300/day live. KSA Salon Meta $200/day live. YouTube brand ad copy "10 years 10 million bookings" outdated — Rupa check pending. | 28.07.2026 | YouTube copy update; KSA Salon creative |
-| Healthcare Vertical | Active — Two meetings today (Daily + BD×Marketing). Real CPA/LTV adopted as primary metric. Retention calling team to be onboarded. Aug spend target doubled. IV concept ads pipeline empty — recurring task needed. | 28.07.2026 | Retention team onboarding; concept ads; peptides |
-| CRM & Email | Active — Salon & Spa end-of-month promo campaigns running. Pet healthcare 250 MOV actioned via CRM ✅. Funnel vouchers also to be updated via CRM. | 28.07.2026 | Pet HC funnel voucher update; PN frequency cap |
-| KSA Expansion | Active — Dina approval required for all KSA content before go-live (Jul 14 directive). KSA campaigns running. | 28.07.2026 | Dina sign-off process |
-| Analytics & Reporting | Active — New weekly budget optimization report process from Bilge (weekly summary + WoW impact + forecasted budget). New weekly 28-day retention cohort report per vertical (Mondays). | 28.07.2026 | Deliver first budget optimization summary |
-| People & Ops | Active — Q3 KPIs 8 days overdue on JustGrowth. Capacity planner: no self-adding, submit via Bilge. | 28.07.2026 | Q3 KPI log; TikTok credit line |
+| Paid Media — Healthcare | Active — HC budget cuts Aug 18 (Lab -20%, IV -35%). Peptides on separate funnel. Flu vaccine campaigns planned. Lab app banner discount agreed (50% off up to AED 60, MOV 149). | 24.08.2026 | Lab banner; peptides launch; flu vaccine search |
+| Paid Media — Home Cleaning | Active — HC budget increase requested (+$500, higher AUH). Subscription ads live. BTS instant messaging push. Abu Dhabi separate budget/campaign in progress. | 24.08.2026 | AUH budget; subscription panel; Lilly ads pause |
+| Healthcare Vertical | Active — Created bookings not recovering while other verticals trend back. Ameya/Swapnil setting up short-term recovery meeting. IV/Lab YoY trend analysis due Wed Aug 26. | 24.08.2026 | Recovery meeting; trend analysis deadline |
+| CRM & Email | Active — HC subscription bi-weekly campaign sent today. Wisewell BTS (2 months free) pending. Wisewell monthly CRM pending. Flu vaccine PN this week. | 24.08.2026 | Wisewell funnel copy; flu PN; Wisewell BTS |
+| Wisewell | Active — 40 machines delivered, subscriptions compounding (7→19→48). BTS offer: 2 months free until Sep 1. Funnel copy still incorrect ("1st month free"). Monthly CRM timed to salary week planned. | 24.08.2026 | Funnel copy update; BTS CRM launch |
+| KSA Expansion | Active — Dina approval required for all KSA content before go-live. KSA budget increase +$200 (Yana noted Aug 21). | 24.08.2026 | Dina sign-off process |
+| Analytics & Reporting | Active — IV/Lab YoY trend analysis due Wednesday (Swapnil taskforce). Weekly budget optimization summary standing process. | 24.08.2026 | YoY analysis deadline |
+| People & Ops | Active — Q3 KPIs 35+ days overdue on JustGrowth. Capacity planner: 3 new tasks to log today (Bilge directive). | 24.08.2026 | Capacity planner; Q3 KPI log |
 
 ## Open Items
 | Item | Owner | Status | Days Open |
 |---|---|---|---|
-| Log Q3 KPIs to JustGrowth | Yana | CRITICAL | 8 |
-| IV Glutathione Google ads disapproval (6/8) | Yana | CRITICAL [STALE] | 15+ |
-| TikTok credit line check | Team | CRITICAL [STALE] | 11 |
-| Lab Test – 4 Sales Asana task (details clarity) | Yana | STALE | 4 |
-| Flash sale CRM access for Nitish | Rupa/Pallavi | Open | 1 |
-| YouTube brand ad copy update ("10 years 10M bookings") | Yana → Rupa | Open | 0 |
-| IV concept ads → recurring task via capacity planner (Bilge) | Yana | Open | 0 |
-| Launch Google App Install for Lab (AED 300 iOS / 100 Android) | Yana | Open | 0 |
-| Restart Search campaign for IV Therapy | Yana | Open | 0 |
-| WA Lab Test — 4 carousel creatives (align with Prabhan) | Yana | Open | 0 |
-| IV cross-sell to Women's Salon — confirm if sent | Yana | Open | 0 |
-| Social boost — Facebook page access | Yana | Open | 0 |
-| Pet healthcare Amazon ads setup | Yana | Open | 0 |
-| Peptides ad creatives (consultation-led + direct-buy) | Yana | Open | 0 |
-| Google ad copy review — Peptides + IV | Pallavi | Open | 0 |
-| Pet healthcare app banners — update with 250 MOV | Yana | Open | 0 |
-| IV retargeting — add more creatives | Yana/Ishika | Open | 4 |
-| Design comments — Dina/Pallavi/Rupa (Figma) | Yana | Open | 4 |
-| Lab Test Flash Sale funnel removal — unconfirmed since Jul 13 | Rabin M | Stale | 15 |
-| Lab Test conversion crash — 0.21% CR | Yana/Bilge | STALE | 93 |
-| RBX campaign dispute | Yana | Open | 73 |
+| Reply to Bilge: 3 capacity planner tasks (flu vaccine search copy, sub app banner, flu PN) | Yana | CRITICAL | 0 |
+| IV/Lab YoY trend analysis — due Wed Aug 26 | Yana | CRITICAL | 5 |
+| HC budget +$500 with higher AUH allocation | Yana | Open | 3 |
+| Lab test app banner: 50% off up to AED 60, MOV AED 149 | Yana | Open | 3 |
+| Update Wisewell funnel copy: "2 months free" until Sep 1 | Yana/Rabin | Open | 3 |
+| Peptides PN brand approval | Pallavi/Rabiah | Waiting | 5 |
+| Pause all Lilly ads on paid | Yana | Open | 6 |
+| Launch Peptides Google Search campaign | Yana | Open | 6 |
+| Check with Zia on instant availability logic + BTS instant ads | Yana | Open | 6 |
+| Wisewell BTS CRM — 2 months free | Yana | Open | 6 |
+| Wisewell monthly CRM — salary week | Yana | Open | 6 |
+| Send PN/WA to IV/GLP-1 bookers re: new peptides funnel | Yana | Open | 6 |
+| Flu vaccine PN week of Aug 24 | Yana | Open | 6 |
+| Set up flu vaccine search campaign | Yana | Open | 6 |
+| Homepage banner flu vaccine swap (4th week Sep) | Yana | Open | 6 |
+| Lab test app banner click source check | Yana | Open | 6 |
+| WhatsApp cohort test for lab | Yana | Open | 6 |
+| Increase Abu Dhabi discounts + separate campaign budget | Yana | Open | 6 |
+| Subscription app homepage panel | Yana | Open [UC] | 6 |
+| Add utilization column to city report | Yana | Open | 6 |
+| Partner meetings Abu Dhabi (with Ameya) | Yana | Open | 6 |
+| Check with Alican (Product) on Wisewell CRM feature | Yana | Open | 5 |
+| Get authorization for 2 reels from Akshita + Red | Yana | Open | 12 |
+| Log Q3 KPIs to JustGrowth | Yana | CRITICAL STALE | 35+ |
+| IV Glutathione Google ads disapproval (6/8) | Yana | CRITICAL STALE | 49+ |
+| TikTok credit line check | Team | STALE | 38 |
+| YouTube brand ad copy update | Yana → Rupa | STALE | 27 |
+| RBX campaign dispute | Yana | STALE | 108 |
 
 ## Recently Resolved
 | Item | Resolution | Date |
 |---|---|---|
-| Pet healthcare 250 MOV — all discounts (paid, in-app, CRM) | Done ✅ — Sabhyata confirmed | 28.07.2026 |
-| Women's Salon cross-sell delivered by Rabiah | Done ✅ | 23.07.2026 |
+| Subscription bi-weekly HC CRM campaign | Sent today — Sabhyata confirmed with Bilge ✓ | 24.08.2026 |
+| BTS paid ads for healthcare | Yana confirmed "Done for healthcare" Aug 22 ✓ | 22.08.2026 |
+| HC budget cuts (Lab -20%, IV -35%) | Executed per Bilge DM Aug 18 ✓ | 18.08.2026 |
+| HC subscription email strip launch | Launched Aug 19 (Sabhyata CleverTap journey) ✓ | 19.08.2026 |
+| Pet healthcare 250 MOV — all discounts | Done ✅ — Sabhyata confirmed | 28.07.2026 |
 
 ## Active Experiments
 | Experiment | Channel | Status | Signal |
 |---|---|---|---|
-| Peptides — consultation-led vs. direct-buy ads | Meta/Google | NEW — $10–15k budget, starting Aug | 28.07.2026 |
-| GLP-1 bottom-funnel / price-point ads | Meta | IN PROGRESS — launching this week | 28.07.2026 |
-| Lab layout — best sellers above Offers 99 | In-app | NEW — 1-week test | 28.07.2026 |
-| Multiple-adset CBO model (all verticals) | Meta | NEW STANDARD | 19.06.2026 |
-| Meta → Google app install migration | Google UAC | IN PROGRESS | 03.07.2026 |
-| AI Max — UAC (Laundry / Lab Test) | Google | PLANNED — mid-July start | 24.06.2026 |
-| GLP-1 campaign restructure | Meta | IN PROGRESS | 28.07.2026 |
-| Free HBA1C for GLP consultation | HC | NEW INITIATIVE | 06.07.2026 |
+| Peptides — consultation-led vs. direct-buy ads | Meta/Google | Launch pending — separate funnel now live | 24.08.2026 |
+| Wisewell subscriptions — BTS 2 months free | CRM | Active until Sep 1 | 18.08.2026 |
+| Lab banner discount — 50% off up to AED 60, MOV 149 | App | Agreed, pending actioning | 21.08.2026 |
+| HC subscription push — tracking conversion from 10k page visitors (2% current) | Paid + CRM | Active | 18.08.2026 |
+| BTS instant messaging — 21–27% of sessions have instant availability | Meta | Active but risk flagged (trust if unavailable) | 18.08.2026 |
+| Multiple-adset CBO model (all verticals) | Meta | STANDARD | 19.06.2026 |
 
 ## People Watch List
 | Person | Open Item | Urgency |
 |---|---|---|
-| Bilge | Confirm IV concept ads Asana task added to capacity planner | High |
-| Bilge | HC Concept Ads rollout — waiting on Yana | Critical |
-| Bilge | JBP revised forecast — share with Google | High |
-| Rupa | YouTube brand ad copy — replacement for "10 years 10 million bookings" | High |
-| Pallavi | Review Google ad copies — Peptides + IV Therapy (#performance-content-review) | Medium |
-| Nitish | Peptides app banner — ops issue, no live date yet | Medium |
-| Prabhan | WA Lab Test — 4 carousel creatives; mark tasks done in Asana on handover | Medium |
-| Sabhyata | Pet healthcare funnel vouchers — update via CRM | Medium |
-| Sabhyata | Fix CRM journey PN frequency cap | Medium |
-| Rabin M | Flash sale CRM access for Nitish — still unresolved | Medium |
-| Dina | KSA content approval — must sign off before any content goes live | Critical |
-| Ameya | Healthcare recurring call invite — not sent despite reminders | Medium |
+| Bilge | 3 DMs unanswered — capacity planner tasks (flu vaccine search, sub banner, flu PN) | Critical |
+| Ameya | HC +$500 budget / AUH allocation — waiting on Yana's check | High |
+| Ameya | Healthcare recovery meeting (bookings not back) — Yana involvement unclear | High |
+| Swapnil | IV/Lab YoY trend analysis — due Wednesday, Yana assigned | Critical |
+| Pallavi/Rabiah | Peptides PN brand approval — pending | Medium |
+| Rabin | Wisewell funnel copy update ("2 months free") | Medium |
+| Nitish | Lab test app banner discount update | Medium |
+| Sabhyata | Flu vaccine PN — confirm stock version | Medium |
+| Dina | KSA content approval — must sign off before anything goes live | Critical |
+| Rupa | YouTube brand ad copy update | Low |
 
 ## Key Metrics (last known)
 | Metric | Value | Channel / Context | Date |
 |---|---|---|---|
+| Wisewell subscriptions | 48 (from 7→19→48) | Compounding | 18.08.2026 |
+| HC budget — Lab | -20% ($377/day) | Aug 18 Bilge directive | 18.08.2026 |
+| HC budget — IV | -35% ($179/day) | Aug 18 Bilge directive | 18.08.2026 |
+| Subscription page conversion | 2% of 10k visitors | HC subscription push | 18.08.2026 |
+| Instant availability rate | 21–27% of sessions | BTS instant ads risk | 18.08.2026 |
+| Nurse upsell conversion | ~30% | One nurse ~70k AED GMV/month | 18.08.2026 |
+| IV AOV | 136 (down from 150) | Credit-threshold bug fixed | 18.08.2026 |
+| Peptides monthly bookings | ~30–35 | ~AED 8–9k GMV | 28.07.2026 |
 | IV real CPA/LTV ratio | 0.76 (with brand) | Healthcare — room to scale | 28.07.2026 |
-| Lab real CPA/LTV ratio | 0.39 | Healthcare — significant room to double | 28.07.2026 |
-| IV GMV target attainment | 74% | Jul 28 | 28.07.2026 |
-| Lab GMV target attainment | 77% | Jul 28 | 28.07.2026 |
-| Aug spend target | ~AED 100k | Up from ~AED 50k | 28.07.2026 |
-| Peptides monthly bookings | ~30–35 | Peptide-specific GMV ~AED 8–9k | 28.07.2026 |
-| KSA TikTok daily budget | $300/day — live | KSA TikTok | 03.07.2026 |
-| KSA Salon Meta app install daily budget | $200/day — live | KSA Meta | 03.07.2026 |
-| IV Glutathione disapproved ads | 6/8 | Google Search | 06.07.2026 |
-| Lab Test conversion rate | 0.21% | CRASH (avg 0.90% 22–26 Apr) | 26.04.2026 |
-| TikTok credit line remaining | $37,834.21 | Unconfirmed — 11 days stale | 19.06.2026 |
+| Lab real CPA/LTV ratio | 0.39 | Healthcare — significant room | 28.07.2026 |
+| TikTok credit line remaining | $37,834.21 | Unconfirmed — 38 days stale | 19.06.2026 |
